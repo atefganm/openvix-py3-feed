@@ -1,1 +1,1 @@
-# openvix-py3-feed
+# OpenViX-Feed
