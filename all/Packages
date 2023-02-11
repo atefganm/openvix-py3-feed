@@ -5291,9 +5291,9 @@ Version: 1.xx+git12+3b62fb6-r1
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: f0a0badcc46d9e343074e802c1e10145
-SHA256sum: 59350a1e839ee0972314838be970c70910e0299d9d1d7d4259e6ab5b8347e888
-Size: 271084
+MD5Sum: d0338d7bae07db8f21690730aad13853
+SHA256sum: 915f8c9091d9b82cb1b3904fd1a6aa459a774c9afd1c0059b629d6dd9be43fdd
+Size: 271156
 Filename: enigma2-plugin-extensions-jediepgxtream_1.xx+git12+3b62fb6-r1_all.ipk
 Source: enigma2-plugin-extensions-jediepgxtream.bb
 Description: enigma2-plugin-extensions-jediepgxtream version 1.xx+gitAUTOINC+3b62fb6126-r1
@@ -5356,9 +5356,9 @@ Version: 1.xx+git143+8d45653-r1
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: ccc3c3982a2014fe3c49f5a9345dd2d1
-SHA256sum: 9cb91ffd1ce0ce00aced4b6b23ce5c351539b024b82287376fc2566c3c4421e0
-Size: 1708394
+MD5Sum: add5f516d5d0cd0c7c5f390d9b906efd
+SHA256sum: 193b7c4b105a2d92a2eeddfc7b67a5f4d562cdbdd90c2efc11e78cadfe742630
+Size: 1707962
 Filename: enigma2-plugin-extensions-jedimakerxtream_1.xx+git143+8d45653-r1_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version 1.xx+gitAUTOINC+8d456530bd-r1
@@ -5368,75 +5368,75 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-lamedbmerger-dbg
-Version: 1.0+git5+46f928e-r0
+Version: 1.0+git6+67a73b5-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 39162bf19fbe0782907418275a04487d
-SHA256sum: 8a5cb8ee299ce77d7773ef7dee2d215c47058c191accc28999e8a7255dc509a1
-Size: 712
-Filename: enigma2-plugin-extensions-lamedbmerger-dbg_1.0+git5+46f928e-r0_all.ipk
+MD5Sum: 7b9d5350967e3d8f08c7f32d154a165b
+SHA256sum: 392428c2b2108d7c1555f9ec0ec00813893b30112883d8b61a9fdc018b9f37ea
+Size: 710
+Filename: enigma2-plugin-extensions-lamedbmerger-dbg_1.0+git6+67a73b5-r0_all.ipk
 Source: enigma2-plugin-extensions-lamedbmerger.bb
-Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+46f928ef98-r0 - Debugging files
+Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+67a73b5622-r0 - Debugging files
 OE: enigma2-plugin-extensions-lamedbmerger
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-lamedbmerger-dev
-Version: 1.0+git5+46f928e-r0
-Recommends: enigma2-plugin-extensions-lamedbmerger (= 1.0+git5+46f928e-r0)
+Version: 1.0+git6+67a73b5-r0
+Recommends: enigma2-plugin-extensions-lamedbmerger (= 1.0+git6+67a73b5-r0)
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 87268adc5010a110d82306d085dff0e4
-SHA256sum: 39c6f891e744a62d05c9b5ef89e0b3deb9bb3d8873861e6336bc2a1d319367af
-Size: 750
-Filename: enigma2-plugin-extensions-lamedbmerger-dev_1.0+git5+46f928e-r0_all.ipk
+MD5Sum: 055936f633b46d3b7d609fff8090e812
+SHA256sum: c41238f66f6321a845ae7c6636edc68293c72584108a71b17e59ac8616f829c2
+Size: 748
+Filename: enigma2-plugin-extensions-lamedbmerger-dev_1.0+git6+67a73b5-r0_all.ipk
 Source: enigma2-plugin-extensions-lamedbmerger.bb
-Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+46f928ef98-r0 - Development files
+Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+67a73b5622-r0 - Development files
 OE: enigma2-plugin-extensions-lamedbmerger
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-lamedbmerger-src
-Version: 1.0+git5+46f928e-r0
+Version: 1.0+git6+67a73b5-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 0594da48b1fdc4eeadb70fadf85c04bd
-SHA256sum: 6ebec84015869121501fd6430920123a4e07ceaf2b70e57759a0b08f40a7eae4
-Size: 5860
-Filename: enigma2-plugin-extensions-lamedbmerger-src_1.0+git5+46f928e-r0_all.ipk
+MD5Sum: 33f17576214ddb1f1cfd06b9ca145cce
+SHA256sum: 6503b51487e4a74f981e20db1ae5d0247731df6e4b535d09351938cc25681480
+Size: 5856
+Filename: enigma2-plugin-extensions-lamedbmerger-src_1.0+git6+67a73b5-r0_all.ipk
 Source: enigma2-plugin-extensions-lamedbmerger.bb
-Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+46f928ef98-r0 - Source files
+Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+67a73b5622-r0 - Source files
 OE: enigma2-plugin-extensions-lamedbmerger
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-lamedbmerger
-Version: 1.0+git5+46f928e-r0
+Version: 1.0+git6+67a73b5-r0
 Section: base
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 7d93243709919d863447cea3f132ace9
-SHA256sum: 09ac46001b9e4b3427fda59bbf7949fdc8105f988afc986791ff1ab9b9bd2f24
-Size: 13134
-Filename: enigma2-plugin-extensions-lamedbmerger_1.0+git5+46f928e-r0_all.ipk
+MD5Sum: cda5d8d3691c6e2fb500bf908bd17f6b
+SHA256sum: 14d8caa687e2bfba847c37ad6e65696e6f16c58e742fda084c4e1f895b03291b
+Size: 13142
+Filename: enigma2-plugin-extensions-lamedbmerger_1.0+git6+67a73b5-r0_all.ipk
 Source: enigma2-plugin-extensions-lamedbmerger.bb
-Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+46f928ef98-r0
+Description: enigma2-plugin-extensions-lamedbmerger version 1.0+gitAUTOINC+67a73b5622-r0
 OE: enigma2-plugin-extensions-lamedbmerger
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-dbg
-Version: 4.6.0-git531+8a3cca5-r0
+Version: 4.6.0-git538+15faf2b-r0
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 197f1ef2d0f1daa50e0e3aa5c9ab0036
-SHA256sum: 63503bf8995581795d090763af9d8e4e5db5d8c1357a363a93b276dcb9411e49
+MD5Sum: 1934cacda287c7ac496abc5b1c5c4d69
+SHA256sum: 0c30a92de530e519baa1f6711c3c9e9b729d8cb7a57b6847f88b74a745b03000
 Size: 762
-Filename: enigma2-plugin-extensions-serienrecorder-dbg_4.6.0-git531+8a3cca5-r0_all.ipk
+Filename: enigma2-plugin-extensions-serienrecorder-dbg_4.6.0-git538+15faf2b-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Debugging files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -5445,15 +5445,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-dev
-Version: 4.6.0-git531+8a3cca5-r0
-Recommends: enigma2-plugin-extensions-serienrecorder (= 4.6.0-git531+8a3cca5-r0), python3-email-dev, python3-json-dev, python3-sqlite3-dev, python3-xmlrpc-dev
+Version: 4.6.0-git538+15faf2b-r0
+Recommends: enigma2-plugin-extensions-serienrecorder (= 4.6.0-git538+15faf2b-r0), python3-email-dev, python3-json-dev, python3-sqlite3-dev, python3-xmlrpc-dev
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: f4fcdc5ca8786cc23ad1a5f13345b5f6
-SHA256sum: 31728fdf6ebe793ebc3f239be7b7fe0ada224516018e4ac09b59517794b9b532
+MD5Sum: d0d4c9418cbf6dde1db1da014194f93c
+SHA256sum: bac5b9247d0b1ae4769a47f89ccedf8ab8aa9c71931cc4a934697caec314318d
 Size: 834
-Filename: enigma2-plugin-extensions-serienrecorder-dev_4.6.0-git531+8a3cca5-r0_all.ipk
+Filename: enigma2-plugin-extensions-serienrecorder-dev_4.6.0-git538+15faf2b-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Development files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -5462,14 +5462,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-src
-Version: 4.6.0-git531+8a3cca5-r0
+Version: 4.6.0-git538+15faf2b-r0
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 31ca7c90ba88b8ae7e1f82e42af446f2
-SHA256sum: 74ca2a4a94d600236938ff80dcd6242d6e3122fabd9202856c19f470565794ef
-Size: 171588
-Filename: enigma2-plugin-extensions-serienrecorder-src_4.6.0-git531+8a3cca5-r0_all.ipk
+MD5Sum: 3d68f61fd08b7e380ced9151b72cb3cc
+SHA256sum: 4b1895108e90abab86f2be44d9918ae21d543b71b9071082ab8e432d4356a057
+Size: 171838
+Filename: enigma2-plugin-extensions-serienrecorder-src_4.6.0-git538+15faf2b-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Source files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -5478,15 +5478,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder
-Version: 4.6.0-git531+8a3cca5-r0
+Version: 4.6.0-git538+15faf2b-r0
 Depends: python3-email, python3-json, python3-sqlite3, python3-xmlrpc
 Section: extra
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 16d703612cbe42b9ad1fb73839188f03
-SHA256sum: e0a89b43d7bc4398455c50312638d23329e61c3137f256377d7731f538f26453
-Size: 721498
-Filename: enigma2-plugin-extensions-serienrecorder_4.6.0-git531+8a3cca5-r0_all.ipk
+MD5Sum: d003d5ea15da66a78e65a944e45cfe9e
+SHA256sum: 569d2b7829e24b51b6d752ef74cb35a067f28f03010dbfa32a75960aadeb2ef0
+Size: 722028
+Filename: enigma2-plugin-extensions-serienrecorder_4.6.0-git538+15faf2b-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen!
 OE: enigma2-plugin-extensions-serienrecorder
@@ -5495,14 +5495,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dbg
-Version: 1.xx+git340+9533407-r1
+Version: 1.xx+git342+dfa4b6c-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: f774f3105e8e2e3fb491eb3a7790d2b6
-SHA256sum: 32727acf462a328bce9f3a4e999d01efb412e6df1de6ceaba7e3c8ac219687cc
+MD5Sum: 862ee16fddf2029596d75ef9292f79de
+SHA256sum: aa85ee7658b0d7eb26e2993bf26942fefb0df3f71be0d716a9a42a98ee8dd701
 Size: 718
-Filename: enigma2-plugin-extensions-xstreamity-dbg_1.xx+git340+9533407-r1_all.ipk
+Filename: enigma2-plugin-extensions-xstreamity-dbg_1.xx+git342+dfa4b6c-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Debugging files
 OE: enigma2-plugin-extensions-xstreamity
@@ -5511,15 +5511,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dev
-Version: 1.xx+git340+9533407-r1
-Recommends: enigma2-plugin-extensions-xstreamity (= 1.xx+git340+9533407-r1), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
+Version: 1.xx+git342+dfa4b6c-r1
+Recommends: enigma2-plugin-extensions-xstreamity (= 1.xx+git342+dfa4b6c-r1), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e71409eb560a4dabd14cf913ee5675c3
-SHA256sum: a59e0b422436f35d8895027ed9c4683577a6f167a91482c8534523d7967001bb
+MD5Sum: 6d5d4852fcbecbe059506ba5163a26fb
+SHA256sum: 39fb7652954b80c87a50cbd3d3175d6880ed0833e8d0bf19a7e0dbe3ccab6a83
 Size: 788
-Filename: enigma2-plugin-extensions-xstreamity-dev_1.xx+git340+9533407-r1_all.ipk
+Filename: enigma2-plugin-extensions-xstreamity-dev_1.xx+git342+dfa4b6c-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Development files
 OE: enigma2-plugin-extensions-xstreamity
@@ -5528,14 +5528,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-src
-Version: 1.xx+git340+9533407-r1
+Version: 1.xx+git342+dfa4b6c-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e24441eedf7188fcff50ba9c3b3e0422
-SHA256sum: 37432adcac55fd5e8616e2ad2d11f140eb4b085755ca25a64fa4d72722266eeb
-Size: 55564
-Filename: enigma2-plugin-extensions-xstreamity-src_1.xx+git340+9533407-r1_all.ipk
+MD5Sum: 257a17911e4e1f9caa31f3998ec4e6f6
+SHA256sum: 9d6634bb752e8e94040c8ff37e6fc34a39d70446642855e95b9789a030230f5b
+Size: 55624
+Filename: enigma2-plugin-extensions-xstreamity-src_1.xx+git342+dfa4b6c-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Source files
 OE: enigma2-plugin-extensions-xstreamity
@@ -5544,15 +5544,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 1.xx+git340+9533407-r1
+Version: 1.xx+git342+dfa4b6c-r1
 Depends: python3-multiprocessing, python3-pillow, python3-requests
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 1bc572029ad44f2055a58d0fd4c9fef0
-SHA256sum: dc90cbe8bccd1c4cbc662d06816cac02be2e898103742ccd3d3b867bd0f0739f
-Size: 2211000
-Filename: enigma2-plugin-extensions-xstreamity_1.xx+git340+9533407-r1_all.ipk
+MD5Sum: ca47ca15365b49e1f8fc324bb222f1d5
+SHA256sum: f6e91ce7611583832891bd711c1b3ba65a0d186c0f2c526799e4fb5e9a88865a
+Size: 2210908
+Filename: enigma2-plugin-extensions-xstreamity_1.xx+git342+dfa4b6c-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC
 OE: enigma2-plugin-extensions-xstreamity
@@ -7401,14 +7401,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 1.0+git818+e61287f-r0
+Version: 1.0+git820+081a2f2-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: d19a5df7283cb8c8725bafeb8172f4c2
-SHA256sum: 640d7f89b0fab49db421ff032588c66027f1b4d7c0265f2e27d0b918a6d3a2b4
-Size: 654
-Filename: tuxbox-common-dbg_1.0+git818+e61287f-r0_all.ipk
+MD5Sum: a7278ef3d8e87c8ccf4016e84ddebcdf
+SHA256sum: 58f35a51f6e7040b37551613ed276620508c89ce80a625fc15a35317b0e78588
+Size: 656
+Filename: tuxbox-common-dbg_1.0+git820+081a2f2-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Debugging files
 OE: tuxbox-common
@@ -7416,15 +7416,15 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 1.0+git818+e61287f-r0
-Recommends: tuxbox-common (= 1.0+git818+e61287f-r0)
+Version: 1.0+git820+081a2f2-r0
+Recommends: tuxbox-common (= 1.0+git820+081a2f2-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 2268f7b7b25ab9d3e3b2e95f877d11d5
-SHA256sum: 8f5a50c260ebd376025d466c1e2a1cdb34db7f4b0d7396bfbf263c64352d0c9a
+MD5Sum: 2b54306d910988a9cf6d14f856f64f98
+SHA256sum: 3c6d153b600d5fb5486e7d016e9b6382def2c046f6bccb16e24faa852f865a68
 Size: 692
-Filename: tuxbox-common-dev_1.0+git818+e61287f-r0_all.ipk
+Filename: tuxbox-common-dev_1.0+git820+081a2f2-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Development files
 OE: tuxbox-common
@@ -7432,14 +7432,14 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common
-Version: 1.0+git818+e61287f-r0
+Version: 1.0+git820+081a2f2-r0
 Section: base
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 1485c27ecb3e709b352cceb9ea6c33b3
-SHA256sum: a1d51ff8d18319b77ad0fedbbebeb81ca950b546703022e488749ff64e056d6c
-Size: 57900
-Filename: tuxbox-common_1.0+git818+e61287f-r0_all.ipk
+MD5Sum: 14b5d3aea6568c9304defab233214804
+SHA256sum: 9499b432ce722df5153ae11ecd6d3ab90db91cb8deab44fc15b62faca2a2f032
+Size: 57572
+Filename: tuxbox-common_1.0+git820+081a2f2-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files
 OE: tuxbox-common
