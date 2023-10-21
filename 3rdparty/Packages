@@ -100,21 +100,3 @@ OE: OE2.0
 HomePage: *
 Priority: optional
 
-Package: enigma2-plugin-extensions-xeaio
-Version: 3.2.8
-Depends: python3-json, python3-sqlite3
-Recommends: enigma2-plugin-systemplugins-serviceapp, openvpn
-Section: base
-Architecture: all
-Maintainer: XE
-MD5Sum: 1605e1dc9df5a9dc276181ac3eed3de2
-SHA256sum: 4c02daab14ed13b8cc775174b41c946d39a119b7c329ef9c1426533d2bcdac4a
-Size: 177916
-Filename: enigma2-plugin-extensions-xeaio_3.2.8_all.ipk
-Source: none
-Description: XE Plugin
-OE: enigma2-plugins
-HomePage: unknown
-License: Proprietary
-Priority: optional
-
