@@ -178,15 +178,15 @@ License: GPL-2.0-or-later & MPL-2.0
 Priority: optional
 
 Package: dreamplex-skins-meta-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Recommends: enigma2-plugin-skinpacks-dreamplex-plex-experience-dbg, enigma2-plugin-skinpacks-dreamplex-youplex-blue-dbg, enigma2-plugin-skinpacks-dreamplex-youplex-green-dbg, enigma2-plugin-skinpacks-dreamplex-youplex-purple-dbg, enigma2-plugin-skinpacks-dreamplex-youplex-red-dbg
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 6004cdacb493a95ca1a981e67f2648c1
-SHA256sum: e591c6212f15282054b306f90c91a7037dfdf23952b95cf7e05edbbfcae0415b
+MD5Sum: e6e28d35d842b28ec9416a9da6f34700
+SHA256sum: 2386856286791e9c453e19b3323dfeb9b146748af40c180d723a7eaf88c3add4
 Size: 638
-Filename: dreamplex-skins-meta-dbg_6.5-r0_all.ipk
+Filename: dreamplex-skins-meta-dbg_6.6-r0_all.ipk
 Source: dreamplex-skins-meta.bb
 Description: Skins for Dreamplex - Debugging files
 OE: dreamplex-skins-meta
@@ -195,15 +195,15 @@ License: MIT
 Priority: optional
 
 Package: dreamplex-skins-meta-dev
-Version: 6.5-r0
-Recommends: dreamplex-skins-meta (= 6.5-r0), enigma2-plugin-skinpacks-dreamplex-plex-experience-dev, enigma2-plugin-skinpacks-dreamplex-youplex-blue-dev, enigma2-plugin-skinpacks-dreamplex-youplex-green-dev, enigma2-plugin-skinpacks-dreamplex-youplex-purple-dev, enigma2-plugin-skinpacks-dreamplex-youplex-red-dev
+Version: 6.6-r0
+Recommends: dreamplex-skins-meta (= 6.6-r0), enigma2-plugin-skinpacks-dreamplex-plex-experience-dev, enigma2-plugin-skinpacks-dreamplex-youplex-blue-dev, enigma2-plugin-skinpacks-dreamplex-youplex-green-dev, enigma2-plugin-skinpacks-dreamplex-youplex-purple-dev, enigma2-plugin-skinpacks-dreamplex-youplex-red-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 7ae8860bfdba4d967d5f5572c298b790
-SHA256sum: 96612b815116bdc47dc5050f195bcdd610eac33b6d5df16373d8f4fa3e175290
+MD5Sum: dd3ba029e7c652a83c149f13217bd62e
+SHA256sum: 06de4a9bd8bb503ae3641ff7bd68828367f344ea2fc7d5971c1d7ee7d7014690
 Size: 662
-Filename: dreamplex-skins-meta-dev_6.5-r0_all.ipk
+Filename: dreamplex-skins-meta-dev_6.6-r0_all.ipk
 Source: dreamplex-skins-meta.bb
 Description: Skins for Dreamplex - Development files
 OE: dreamplex-skins-meta
@@ -212,15 +212,15 @@ License: MIT
 Priority: optional
 
 Package: dreamplex-skins-meta
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: enigma2-plugin-skinpacks-dreamplex-plex-experience, enigma2-plugin-skinpacks-dreamplex-youplex-blue, enigma2-plugin-skinpacks-dreamplex-youplex-green, enigma2-plugin-skinpacks-dreamplex-youplex-purple, enigma2-plugin-skinpacks-dreamplex-youplex-red
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: c9bbec7f7506b3c0fe230e54a8ee305d
-SHA256sum: 4b515d52cd09ec19baa230ce8629c876765bec909c185efb6cccd368b016be9f
+MD5Sum: e395e4963526681fae273180b2f65610
+SHA256sum: 11f323e2ed3f59df65d137da344bbecc8d88783b29878fb02f8f7cd5452e4be1
 Size: 566
-Filename: dreamplex-skins-meta_6.5-r0_all.ipk
+Filename: dreamplex-skins-meta_6.6-r0_all.ipk
 Source: dreamplex-skins-meta.bb
 Description: Skins for Dreamplex
 OE: dreamplex-skins-meta
@@ -327,14 +327,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-abstract-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 2a1aada91dedc78d095707fe32700c49
-SHA256sum: e7272b39321869059980d5dde8ee2b565fa16bf1ba7eae1f282b3cda38248ca8
+MD5Sum: f24537283b1702355d0efc22cd59063c
+SHA256sum: 54ad4098ba7a06b45379a07513417d7dccec29b4f612916b5ec23c1c0fcb86e6
 Size: 598
-Filename: enigma2-plugin-bootlogos-maxwells-abstract-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-abstract-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-abstract.bb
 Description: Maxwell abstract bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-abstract
@@ -343,15 +343,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-abstract-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-abstract (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-abstract (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4b5f62e130a4f1a8caf88c819bf1ee5c
-SHA256sum: b9d63083bca0d11724d0bb3235d9364c128b75678fc72f8cedeeacfb25fbe659
+MD5Sum: b110a128308ae4f3201c0a8fa2ae11c6
+SHA256sum: 102979128f65b7b5a466f1e28ad2b7287cb2635bfad3a97b3b86e09bc9a8cb9b
 Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-abstract-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-abstract-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-abstract.bb
 Description: Maxwell abstract bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-abstract
@@ -360,15 +360,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-abstract
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ea2e124a937363f0f408f20fd0bad917
-SHA256sum: 411f9c658b47c6a57db92e4f55d4160ecc6562a8e3759ce645bfe0357c3b39de
+MD5Sum: b77c11ac85a2fdae8a04bb2a4896ba2a
+SHA256sum: 4eba2738ed58bf4cfa7c2d2cdd88d1de4a973fdb5a5e0feba7f9ff40b8731a53
 Size: 242872
-Filename: enigma2-plugin-bootlogos-maxwells-abstract_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-abstract_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-abstract.bb
 Description: Maxwell abstract bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-abstract
@@ -377,14 +377,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-aurora-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8975fda950a50a51da4c5bc4afcf6533
-SHA256sum: 25a60db92b99b572bfc66fdb820c2524241e8f2517d55de26a7e4ef6d928e458
+MD5Sum: 313e5462ee87d653b6a8bb471cfff1b1
+SHA256sum: 42beeb992cb13a34af4880c8bfa4784845412c9905098172a1c72d4e01641e76
 Size: 596
-Filename: enigma2-plugin-bootlogos-maxwells-aurora-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-aurora-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-aurora.bb
 Description: Maxwell aurora bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-aurora
@@ -393,15 +393,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-aurora-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-aurora (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-aurora (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: e5044bf828515201322ad7320037b437
-SHA256sum: a7acae7a8dc31c1ac10b9356fcfe98e858d0ae0ebd340712b72567ecb8a8c995
+MD5Sum: 05f1ae757d613e0d54e21c59916b9ad0
+SHA256sum: 373e5fedcb8265f68cc2f68dd2fc60cd2e9175fd9ad0c9a1fabb6f66106a8acd
 Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-aurora-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-aurora-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-aurora.bb
 Description: Maxwell aurora bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-aurora
@@ -410,15 +410,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-aurora
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8cbe6818e3b51af4cfd5c71607b6d79d
-SHA256sum: 20eeae4c5435149405346c3ba6acd3945e7b820b73c45b1658003f2506fa428f
+MD5Sum: 47f3a98ebb8f79a5d4f1e9d1c4c547a6
+SHA256sum: b3abcdab08e221073a6d28f90dcad9fe5052759418aa391edb7a6df4a092413b
 Size: 323464
-Filename: enigma2-plugin-bootlogos-maxwells-aurora_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-aurora_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-aurora.bb
 Description: Maxwell aurora bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-aurora
@@ -427,14 +427,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-blaze-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: a53f35f1638c74606e70caa7c0420f0f
-SHA256sum: ee0c5249aae2f898b8a863436bda7040c2ced8ad5d6ec3d26f389346869648db
+MD5Sum: efed0847c53af1175dd957e668d7d556
+SHA256sum: 4d3a0544cdfafff33e3790882493c6ff3a8df1bf6d685ec818bdfa0e8f3f8f53
 Size: 596
-Filename: enigma2-plugin-bootlogos-maxwells-blaze-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-blaze-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-blaze.bb
 Description: Maxwell blaze bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-blaze
@@ -443,15 +443,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-blaze-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-blaze (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-blaze (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: abcb25746c4786549188627a297ed3c7
-SHA256sum: 52a86b13630bc27f14e8339e59d1079a9b6ac621c7ad4903f741d794167a22cb
+MD5Sum: 035374fae59d5ff6a00bd76017a0a54e
+SHA256sum: c44e77d59d48f8fe9a0f9a8fa7e2fa7d1bdd7a1eee150dc8c58919ad6c61b31a
 Size: 640
-Filename: enigma2-plugin-bootlogos-maxwells-blaze-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-blaze-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-blaze.bb
 Description: Maxwell blaze bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-blaze
@@ -460,15 +460,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-blaze
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ba5063fef4525aba986433c5773498e6
-SHA256sum: b229d2e02b2023aa9dda975a080d4d79e3c7016c03a53940bd7bf7979947f5c0
+MD5Sum: b25a61d0e502583e4d4ea4b967a04e72
+SHA256sum: 52d9984d6443c094aa20329cd3d7bd753493f40c974b64fbbde783e9315ded80
 Size: 329876
-Filename: enigma2-plugin-bootlogos-maxwells-blaze_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-blaze_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-blaze.bb
 Description: Maxwell blaze bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-blaze
@@ -477,14 +477,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-constellation-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 5b62c0eeaa5034a0fd4f5d0ddc21d97f
-SHA256sum: a7f312ceda81880be7ce4855a81fed95a1edd770d3b96fb91cfa319063cf260a
-Size: 602
-Filename: enigma2-plugin-bootlogos-maxwells-constellation-dbg_6.5-r0_all.ipk
+MD5Sum: 7ac465881d80d9833207f536083f4693
+SHA256sum: 1b9974641a152f5dfbaab3ed7692a3780723c5681d6fd789797bd8120131311c
+Size: 600
+Filename: enigma2-plugin-bootlogos-maxwells-constellation-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-constellation.bb
 Description: Maxwell constellation bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-constellation
@@ -493,15 +493,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-constellation-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-constellation (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-constellation (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: a1f6c4c199d84d8ac188f7ba0ceb7e7a
-SHA256sum: 6467f95ca65492bf5803f6f8d61747b9b1aa74ea8f2a95a235a346c4fb30abd0
+MD5Sum: 969f24d4123237ade7c64cf5933ce6d3
+SHA256sum: 6e743dc6b0ad88435f0400692a6b6995a00f9d2ccff568f60d7637cf13a7002e
 Size: 644
-Filename: enigma2-plugin-bootlogos-maxwells-constellation-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-constellation-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-constellation.bb
 Description: Maxwell constellation bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-constellation
@@ -510,15 +510,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-constellation
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: b4458d82dae07f6460abf88dbf707ffa
-SHA256sum: 4bab6b47ede9e50f2e83b39e87eaa843ea6b41a365ecb9123dd9b367a1f2dc2b
+MD5Sum: 3bf660bcb11123b735642d44449e7981
+SHA256sum: 83955e85f89b19292bd591f8d230e13774d3196f1a8ef54e9df0420ad761d501
 Size: 266202
-Filename: enigma2-plugin-bootlogos-maxwells-constellation_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-constellation_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-constellation.bb
 Description: Maxwell constellation bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-constellation
@@ -527,14 +527,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-curves-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 1f678d25f1f9e1b091df86cde115b65a
-SHA256sum: ff18c379429853af425dd2ca6d5560f86f380e43ce9372fb8d2aa836797d6dac
+MD5Sum: a9a209cdaa9b651764be4960327171a6
+SHA256sum: b9ea22b32e086fb59aa13a45b6bbf5197e7d8280f8a44c02eea40fc647f60790
 Size: 598
-Filename: enigma2-plugin-bootlogos-maxwells-curves-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-curves-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-curves.bb
 Description: Maxwell curves bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-curves
@@ -543,15 +543,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-curves-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-curves (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-curves (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ca54012a3be4338cea2b18f9c3b7bf90
-SHA256sum: 86580ecf363694e465eec526528b01765f06b06e273545b98a44b2f24def001b
+MD5Sum: f5cae2dab7d392293625291ddf453aec
+SHA256sum: 7dac817a368fcad0f30d256a5960c9392677d129ac5a31e68e2a3f0fe262f24a
 Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-curves-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-curves-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-curves.bb
 Description: Maxwell curves bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-curves
@@ -560,15 +560,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-curves
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ecf30dccf32845623a17b54c220978b1
-SHA256sum: b746d375ffbd1ed3a3ddccc37a38776dc451028d4e7fffc3cc2dbfc233df384f
+MD5Sum: 7769c017d4076cb633c843f0ee8da96d
+SHA256sum: e84991e7dfca1670c22fca43185f170a94107736cc2b511f306168c2a59a9f75
 Size: 361744
-Filename: enigma2-plugin-bootlogos-maxwells-curves_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-curves_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-curves.bb
 Description: Maxwell curves bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-curves
@@ -577,14 +577,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-dark3d-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: b3fef8ea5ee48bf210aac2885d1166c2
-SHA256sum: 453e48771418f1e122bbb05f39b63d09cb3b39c622fa799f61cdf73134f30b3a
+MD5Sum: 71b5d298d7566efe7844feeca362d52c
+SHA256sum: 211cd0ef194edf47a3a73c68c83a08b7d6d64cde683a7b49c0aae2e453f51fba
 Size: 600
-Filename: enigma2-plugin-bootlogos-maxwells-dark3d-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-dark3d-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-dark3d.bb
 Description: Maxwell dark 3d bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-dark3d
@@ -593,15 +593,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-dark3d-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-dark3d (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-dark3d (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ddb3676b9eba19d5b21f17bcfd452f77
-SHA256sum: 22713be6b6882ba55415a7c44e09fc92932361583166c4ef3b5494b8fd1f9463
+MD5Sum: f1710eba26e653ab523e5a55a9c33ae2
+SHA256sum: 30206ca9fb18edee4fdfccdf7a1a4f5ed712a392b6ff105feb9ed87afe9a69d9
 Size: 644
-Filename: enigma2-plugin-bootlogos-maxwells-dark3d-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-dark3d-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-dark3d.bb
 Description: Maxwell dark 3d bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-dark3d
@@ -610,15 +610,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-dark3d
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8bbce69681c92add9df6de2140c022ed
-SHA256sum: 71489c29b71679b76612316a141d23ca9b7ce95c9e491bac5dccbf47b92c3c41
-Size: 331130
-Filename: enigma2-plugin-bootlogos-maxwells-dark3d_6.5-r0_all.ipk
+MD5Sum: 51cb7a105fa4a7bd9d7139f09bc882ca
+SHA256sum: 9e20258656d2f5dda4c1c901ab97ab5eaa43345ac9896937d23763968dfda451
+Size: 331128
+Filename: enigma2-plugin-bootlogos-maxwells-dark3d_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-dark3d.bb
 Description: Maxwell dark 3d bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-dark3d
@@ -627,14 +627,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-earth-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: d1f867a258afecceeb6940a383ca858c
-SHA256sum: 8bbda0c08edc9a13b0baf7e035d5b5550d00eab9c411b31ab9063bf5095afa86
-Size: 596
-Filename: enigma2-plugin-bootlogos-maxwells-earth-dbg_6.5-r0_all.ipk
+MD5Sum: dc52055cd8e237135eef4bfd9281914d
+SHA256sum: 169c25d3e9828baf47bff224a9fc1545aa8116aa4a54ff0557b5cd0b45c59bc2
+Size: 594
+Filename: enigma2-plugin-bootlogos-maxwells-earth-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-earth.bb
 Description: Maxwell earth bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-earth
@@ -643,15 +643,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-earth-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-earth (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-earth (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: b16b38450bbe3a93a0f4199e5ec9fe75
-SHA256sum: 8ad16071b5985623e43bbf61c7548da99389cad0695b3165609ad2fb4fc50d8b
+MD5Sum: 34b24b980b571375b7398677aef3ccf5
+SHA256sum: 03a6df46ea26bb9eb9598896f190a88914adb4d77cbbbc8ea9bb4a6018d02b94
 Size: 640
-Filename: enigma2-plugin-bootlogos-maxwells-earth-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-earth-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-earth.bb
 Description: Maxwell earth bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-earth
@@ -660,15 +660,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-earth
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 197bb0c2f1f87e7583348e3882d23229
-SHA256sum: f96ce136dcaf6aa9e488eb175224ed4d7b17732043cf805f3e0e81be7c66bbcd
+MD5Sum: 044c2bed15a1393728e9d8cd27cf0129
+SHA256sum: b04e88d709a48cffaef6a1877c6985f09d0a96455c0edf07d0cea11c96c5e5e6
 Size: 522874
-Filename: enigma2-plugin-bootlogos-maxwells-earth_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-earth_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-earth.bb
 Description: Maxwell earth bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-earth
@@ -677,14 +677,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-firestick-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4336b5a213b778c09de980aa1aec24e6
-SHA256sum: 5768cc56565f02e37d4c5edb3971b128121c25654aaddfb7fb0f9dafc33b1fc0
-Size: 600
-Filename: enigma2-plugin-bootlogos-maxwells-firestick-dbg_6.5-r0_all.ipk
+MD5Sum: 5a89dc15935fe26822a8f4dedc6265ec
+SHA256sum: 51d3711b2b2893e7f5f626d4d3a0596d03321f58d2b4d6fb4218b50cc7644aa4
+Size: 602
+Filename: enigma2-plugin-bootlogos-maxwells-firestick-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-firestick.bb
 Description: Maxwell fire stick bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-firestick
@@ -693,15 +693,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-firestick-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-firestick (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-firestick (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: cf3184fcc6b3d156363f8c2a3464fe05
-SHA256sum: 5ca3c2573627b13feb203d7ee49699b8e4ed709d0542be9dd13788064b6f5b40
+MD5Sum: 1448cb4638faf0e30251827a5d74c6bf
+SHA256sum: d440c46b0855cbf70241d19fdb163c2705fd4d8d8cefffafdc281efb761489c7
 Size: 644
-Filename: enigma2-plugin-bootlogos-maxwells-firestick-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-firestick-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-firestick.bb
 Description: Maxwell fire stick bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-firestick
@@ -710,15 +710,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-firestick
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 3882eeaff4e1c509dfebf4053edc9ba2
-SHA256sum: 5745d7e852f60d2d1b422b37e3eef1c18a3400c0f3cc4ff7914ff80c00f0f336
+MD5Sum: bbdb9190549505c0ee36e7312cb46285
+SHA256sum: c326f95a17fb1cbec0a69b9d393160c591b17abe2a384fa8994342337efe2da5
 Size: 117984
-Filename: enigma2-plugin-bootlogos-maxwells-firestick_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-firestick_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-firestick.bb
 Description: Maxwell fire stick bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-firestick
@@ -727,14 +727,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-iceberg-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 760fe458b147037a412e5b60ec8ae334
-SHA256sum: 04d9f305ab303791932a977df68b4f8c7c86954d2f5eb202607e6fe7ce86cb09
+MD5Sum: c4a2450441267ac64809a693db9396c8
+SHA256sum: b3e00d6720ff76b3c1a0d02ad5fd5c70af234b79bac8ae75a86a503db365a0c9
 Size: 598
-Filename: enigma2-plugin-bootlogos-maxwells-iceberg-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-iceberg-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-iceberg.bb
 Description: Maxwell iceberg bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-iceberg
@@ -743,15 +743,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-iceberg-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-iceberg (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-iceberg (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 561e639288e8606e83b6903912d469aa
-SHA256sum: 22f58883e6221408eb116394c332da1f3e274d915f5d9be2983e64df23fb76a3
+MD5Sum: 9a78cd86ecfc70aa8bb47d7a5fdface1
+SHA256sum: bfbb89fb4cc6cdf093973df58629430cea899a0c148d611477458e8f641c23c5
 Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-iceberg-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-iceberg-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-iceberg.bb
 Description: Maxwell iceberg bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-iceberg
@@ -760,15 +760,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-iceberg
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 98a0a811ac29311214f0228963c855b7
-SHA256sum: b69dd6f42263658ad22d29612b9cdc82787594a1fe2d8964a4545d4b8cd8427b
+MD5Sum: 9d39d0584fcaa5be9b27a24383ad378e
+SHA256sum: 5ed2b726430a644784c62b93e5418e25142dff76a2ce3fdce2b9555e3fff56cf
 Size: 441036
-Filename: enigma2-plugin-bootlogos-maxwells-iceberg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-iceberg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-iceberg.bb
 Description: Maxwell iceberg bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-iceberg
@@ -777,14 +777,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-leaves-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: a4a6bc3defac8d190f947a5f299df007
-SHA256sum: 70a8166ece80b2f391bfe1044f1eb5dff83b897d010b8f18044f1275fdaed379
-Size: 598
-Filename: enigma2-plugin-bootlogos-maxwells-leaves-dbg_6.5-r0_all.ipk
+MD5Sum: 2ee0bd4c420f25b215f76018aaaa5f48
+SHA256sum: 066cb55d3b3de2ca1d56b8fafe2b809c133c3abfe8ea89992642684c1d043472
+Size: 596
+Filename: enigma2-plugin-bootlogos-maxwells-leaves-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-leaves.bb
 Description: Maxwell leaves bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-leaves
@@ -793,15 +793,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-leaves-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-leaves (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-leaves (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 89aecc70408db0f3725df80aa8a2b5e9
-SHA256sum: e54d92c231e35d31a15311c82d3da87a76e6f303c49f9a6acb46a5a4acb7f37b
+MD5Sum: a3f0868ca95eb907f8b06d43815a4aad
+SHA256sum: eb229d0f4b7598d0a8d8281df1a4d280bc26f2578dc86ac14b5c8c88cbdd0797
 Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-leaves-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-leaves-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-leaves.bb
 Description: Maxwell leaves bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-leaves
@@ -810,15 +810,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-leaves
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 0672737146369fb00f796617bc86eb06
-SHA256sum: b1a7ed4802ffb03717e481bfe38149182a699934e23c7f51c64a34fd93a33ccb
+MD5Sum: 8c348ac905423bb3bcd21e09a9028907
+SHA256sum: 1675f591705991dd2dddd7a94e8554551e96de9ba0624177dac0444d3c7ea5b0
 Size: 757028
-Filename: enigma2-plugin-bootlogos-maxwells-leaves_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-leaves_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-leaves.bb
 Description: Maxwell leaves bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-leaves
@@ -827,14 +827,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-purplewave-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: eaa31249baea324e71b7188e4e7b2f02
-SHA256sum: d7a355ccfeece248e6e3e8ef2f9cd97d18fa36938bf26841975e88ef4838e376
+MD5Sum: d2f2c7b0fcfabbefcef2fe9317021503
+SHA256sum: dba1a422be3e02fcb02d49d159c41062259fcc0ec86f4151dacca60f36884567
 Size: 602
-Filename: enigma2-plugin-bootlogos-maxwells-purplewave-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-purplewave-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-purplewave.bb
 Description: Maxwell purple wave bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-purplewave
@@ -843,15 +843,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-purplewave-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-purplewave (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-purplewave (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4379e836305195ac8d9bb714ebe30456
-SHA256sum: bd30fbd1706d602bc4f85bf4fd7d3bc97d2a7f535e107c846258a09646ceb40c
-Size: 646
-Filename: enigma2-plugin-bootlogos-maxwells-purplewave-dev_6.5-r0_all.ipk
+MD5Sum: e95cba54c6851678a42d9d77489773b2
+SHA256sum: f9f7a16e926d8fd07ceda856566296bff79541b7222196ffbd150b47a4718242
+Size: 644
+Filename: enigma2-plugin-bootlogos-maxwells-purplewave-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-purplewave.bb
 Description: Maxwell purple wave bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-purplewave
@@ -860,15 +860,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-purplewave
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 73917d4cdb49b98adefedd03de43dabb
-SHA256sum: b2ef4d9bd62f76434c348deb56810ead49ee1afbc1f2e66800479db0f258e35e
+MD5Sum: 73eb0e99ecc6e1ea0446b5087bdad813
+SHA256sum: 7c8eb1df128552379754e65b3c3d7cede5ca025666e55b380f4e97eb9ecc4c4e
 Size: 174794
-Filename: enigma2-plugin-bootlogos-maxwells-purplewave_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-purplewave_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-purplewave.bb
 Description: Maxwell purple wave bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-purplewave
@@ -877,14 +877,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-ribbons-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 81609aae38a777c56b5559f65b3a35cd
-SHA256sum: 0f95cc1398fc95952e2629f20099fac8ba16751bb112c3f69cd64f7df343569e
+MD5Sum: 4cf9ee9f7908eaa378b5c2a238e3da1f
+SHA256sum: 389dd667a7d37c49564c5c12402a46344180c1d0eaeb5ab15d5d97ef494b2ae0
 Size: 598
-Filename: enigma2-plugin-bootlogos-maxwells-ribbons-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-ribbons-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-ribbons.bb
 Description: Maxwell ribbons bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-ribbons
@@ -893,15 +893,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-ribbons-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-ribbons (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-ribbons (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 9256387701282da7229d2234c41b241d
-SHA256sum: 89559416cc560ecaa34dd9fc8c06b364ab1ffc75e26a043c89987055a646c04b
-Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-ribbons-dev_6.5-r0_all.ipk
+MD5Sum: f1857684039aadd2f43f4ec560b60847
+SHA256sum: 7c9450e6ccd171c34c66585abdcb1f384399dbe6f2693cfe57a973cbcf300bb6
+Size: 640
+Filename: enigma2-plugin-bootlogos-maxwells-ribbons-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-ribbons.bb
 Description: Maxwell ribbons bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-ribbons
@@ -910,15 +910,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-ribbons
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ef68e11b61fb2b6c037858e322d72a32
-SHA256sum: 79222e5421f374aec10ee0673d2413ad425684d2316bccce9fb97ccf13db459e
+MD5Sum: 762d377f8c4cbab4f1c9b85ac56073a7
+SHA256sum: 92c007a21a49f1dcb5b0f51fb0eda78268b4e3b5907d4d98a2a6f5c3d582b4bd
 Size: 213322
-Filename: enigma2-plugin-bootlogos-maxwells-ribbons_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-ribbons_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-ribbons.bb
 Description: Maxwell ribbons bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-ribbons
@@ -927,14 +927,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-river-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8735261262404b1664486661a57b57e2
-SHA256sum: 831a5d8286f1c32412d38a0c5d4c447bc7246b43ef3b1341002959658eead296
+MD5Sum: 19ac0524ec02f75d0b8c1f159b0da984
+SHA256sum: 5215eac2aeddcb241f53590117454befc95aa3b2e93cab590dd2c3fb5145e98c
 Size: 594
-Filename: enigma2-plugin-bootlogos-maxwells-river-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-river-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-river.bb
 Description: Maxwell river bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-river
@@ -943,15 +943,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-river-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-river (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-river (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 23b1d237f8c1d7f03ca825297702f9c7
-SHA256sum: d99a2800a600b4fdfc6e6a7fcf0019a6f684fcf2d5acfeefbe4d22c94ce6363f
+MD5Sum: 395b0bf01b5883addff8a8c539c2f4ad
+SHA256sum: 22b26071ccebbfad352c2a43f0ea20483bd03bfddef7bf27e87c8b81a77ba79b
 Size: 640
-Filename: enigma2-plugin-bootlogos-maxwells-river-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-river-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-river.bb
 Description: Maxwell river bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-river
@@ -960,15 +960,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-river
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: c46de0c3dc7c6f4d845e1d2ea3b9a2a0
-SHA256sum: 9c9c6042b3587a351ad0aa46907b413f9fc88076cbae7ad618a6e4f2c3893fbd
+MD5Sum: d0e10d62ceeea27deb6686f1fae064f7
+SHA256sum: 6e7b050205f0eff022b721d390b39e55735239b106b3b6384d84204a5bbc7b3a
 Size: 231678
-Filename: enigma2-plugin-bootlogos-maxwells-river_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-river_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-river.bb
 Description: Maxwell river bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-river
@@ -977,14 +977,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-smoke-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 364a00fd8bfe15624734b4df0c8a035e
-SHA256sum: 8d42cd776f577f2facb663a7aa49e390176a09f575cdb01f9be7179d9ed9ff5d
+MD5Sum: b5f33a258c9a3e4dae286afbe8e98b4c
+SHA256sum: 5e0b760ecdb4bbc4f771775495144a2f3b4f9517a16ae2c57638410f67fb5640
 Size: 596
-Filename: enigma2-plugin-bootlogos-maxwells-smoke-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-smoke-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-smoke.bb
 Description: Maxwell smoke bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-smoke
@@ -993,15 +993,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-smoke-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-smoke (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-smoke (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 532965795a138a23645851d44dd69b81
-SHA256sum: 551c0ada5c5bebb0c6d651cf6926a45b2a26b67118f2412fe1b1a3d407d129bd
+MD5Sum: 618d8988b75e3bfa3cadaa886991b7af
+SHA256sum: df57588a76506058be4c804d0ebc0cea316296922c14c4e63319adaa02496df0
 Size: 640
-Filename: enigma2-plugin-bootlogos-maxwells-smoke-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-smoke-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-smoke.bb
 Description: Maxwell smoke bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-smoke
@@ -1010,15 +1010,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-smoke
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: e84a69e117c904cd87e3067cf2d9ea5c
-SHA256sum: b906693440db16b52e0cce8d39c36f05820d255d6b4f587983263878d5972f22
+MD5Sum: 3d442fa689703879ccdb515bd148ca8a
+SHA256sum: 29e638607e5a6b2660d56f6efa2f8d8550b1a5cf6ba9d42c3110ecbd7caa3809
 Size: 194314
-Filename: enigma2-plugin-bootlogos-maxwells-smoke_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-smoke_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-smoke.bb
 Description: Maxwell smoke bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-smoke
@@ -1027,14 +1027,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-sound-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: a8a03f933b12e43ed3df54684d603fc0
-SHA256sum: 97005c1a955be9ac1716a0227d9a431e6de636dd8ebf225b2faef1f4835ba9b3
+MD5Sum: d92fe8404df7166e0239e3c25cf67bae
+SHA256sum: 0c9905e45c4c9b117b6d447b5540a588cc55619ed7579bb7c78b237242ae09ea
 Size: 596
-Filename: enigma2-plugin-bootlogos-maxwells-sound-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-sound-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-sound.bb
 Description: Maxwell sound bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-sound
@@ -1043,15 +1043,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-sound-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-sound (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-sound (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 94cb937bb3ae96fd279f9ba2c3836aa1
-SHA256sum: 2a17535ae7f1914d2e1c0bd40e5d1ffaac3c723756c961592017bf67f816a4cd
+MD5Sum: b33e78d5955ceb032cba290074fcdff7
+SHA256sum: 23cfc08723e0025edd5fccca6feee129bf4f6349e2c6c0b593620163ea4b39f3
 Size: 640
-Filename: enigma2-plugin-bootlogos-maxwells-sound-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-sound-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-sound.bb
 Description: Maxwell sound bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-sound
@@ -1060,15 +1060,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-sound
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: d8e5d489ff6228526c0aecf57409890c
-SHA256sum: 25bf7e136b6b334b66bc99b7de37d45cf920472da5e71a3b2b7859adce4c8837
+MD5Sum: 63c1ae8298d35d35ace75bc30111a4f0
+SHA256sum: 6b41286a4804bdad9bf20f28a38ea3a08836c3049e42cfcf5a16f9a7c2497575
 Size: 178374
-Filename: enigma2-plugin-bootlogos-maxwells-sound_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-sound_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-sound.bb
 Description: Maxwell sound bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-sound
@@ -1077,14 +1077,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-spectrum-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 25cfaf21f2f702d94ad83c3400a065a6
-SHA256sum: dc53d18c6f82b57a98ca4461153293411e085de0eb27705eeed34bc4450df092
+MD5Sum: 75375c2ed15c4adca1817347ba893659
+SHA256sum: ad9c8aecc89b46b93947edc92a88616d024328ce21b815f6e4d36bebbd22717f
 Size: 598
-Filename: enigma2-plugin-bootlogos-maxwells-spectrum-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-spectrum-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-spectrum.bb
 Description: Maxwell spectrum bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-spectrum
@@ -1093,15 +1093,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-spectrum-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-spectrum (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-spectrum (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 83ca55dbdf794c4b4e43ab95a33e9a9c
-SHA256sum: 47da8f9fc91a1512383a0fa70d1108e686f7102424c15b01434e69554847fa69
+MD5Sum: 85a902ef0aea7e0d8ec8c97c92beba62
+SHA256sum: a1d90968f843338225bb8df9d66b215ddfa8a98ea39171e560b263186da13028
 Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-spectrum-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-spectrum-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-spectrum.bb
 Description: Maxwell spectrum bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-spectrum
@@ -1110,15 +1110,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-spectrum
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ea0d0ad098559fd52402958f3e7876fc
-SHA256sum: 1b896144059d871761bd052928787a6fdfdff1cd66fb5340c6234a8f6f431558
+MD5Sum: 37638fc3c475025540035ee5125281b7
+SHA256sum: 3ee2fe105fedd94f77f278137d66164b67553d7ee9c8da73fe181f0721b0e9b4
 Size: 290348
-Filename: enigma2-plugin-bootlogos-maxwells-spectrum_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-spectrum_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-spectrum.bb
 Description: Maxwell spectrum bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-spectrum
@@ -1127,14 +1127,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-variation-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: f6fb728e81414cf5c05136acbdec1262
-SHA256sum: 939efb221a8ac79661ed04c023c38387733b27d6afa4783f7290b09e73cdfaed
+MD5Sum: 3d9d1dbf41fdb7db4ffefc779007ae1f
+SHA256sum: 5285de13e0809ce45b69cbeb6d193c83ef255856434e17aec5d565da89130c59
 Size: 598
-Filename: enigma2-plugin-bootlogos-maxwells-variation-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-variation-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-variation.bb
 Description: Maxwell variation bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-maxwells-variation
@@ -1143,15 +1143,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-variation-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-maxwells-variation (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-maxwells-variation (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: b8aef7a02baa1f8db9761807b24c20bd
-SHA256sum: 872b6fa1637caf0db9599ab5ba919a1a0acba63bbcd525009bbf17665bec7c0b
+MD5Sum: 8bb60bc041c2ef8658968129307c97ab
+SHA256sum: a26bc5f54d9217690eb87c46ab1d3f5b3a3dd06d9626134ebd849082525c33f6
 Size: 642
-Filename: enigma2-plugin-bootlogos-maxwells-variation-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-variation-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-variation.bb
 Description: Maxwell variation bootlogo - Development files
 OE: enigma2-plugin-bootlogos-maxwells-variation
@@ -1160,15 +1160,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-maxwells-variation
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: f2e89780e3bae74fe64d863526332b8e
-SHA256sum: 1fba92d14bf2a1e2cef9e6b41cd4d1ff65e748efaec9d735a98cb4ba0a71142b
+MD5Sum: 54d53f88511f47ff0e3c860f5cd84786
+SHA256sum: 25ab54a19347061099e6b6f28b5234b57383800d1539fd55e174396dac353758
 Size: 279828
-Filename: enigma2-plugin-bootlogos-maxwells-variation_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-maxwells-variation_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-maxwells-variation.bb
 Description: Maxwell variation bootlogo
 OE: enigma2-plugin-bootlogos-maxwells-variation
@@ -1177,14 +1177,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-avengers-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 6ed1c2e54ba0878e471a6e20c0a3ba5f
-SHA256sum: 5763a6c17116198bfff628bfb5a177297ac0e1ba98c3cbcff2a9c5b2b8f8cf51
+MD5Sum: 0bb620444bd67ac390cc8d3a0c39faa9
+SHA256sum: 2b825ffb8e687a130e077910001b4b38224968a64e0558f66047dcbb84473622
 Size: 592
-Filename: enigma2-plugin-bootlogos-mk-avengers-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-avengers-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-avengers.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-avengers
@@ -1193,15 +1193,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-avengers-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-avengers (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-avengers (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 35443e62a401f172359b4436f6f48238
-SHA256sum: 65a1220d1ae3fcfe26c77ec1cddfed2b32353d4ea0bd9e6d8f9e38ade10486b7
+MD5Sum: 0691bf3b9e6f3c319977773098582ca8
+SHA256sum: ef249c56ca9192f46e2d9f67f0ebab6f45cd8b7aa017569ff039a0a6166a40f9
 Size: 636
-Filename: enigma2-plugin-bootlogos-mk-avengers-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-avengers-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-avengers.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-avengers
@@ -1210,15 +1210,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-avengers
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 2098258b193bbad8cded3ecd5ffbaae3
-SHA256sum: a0d19db9146b217b212a895889eb9b796a2405a7d0d1f36789f54808591b1a07
-Size: 697868
-Filename: enigma2-plugin-bootlogos-mk-avengers_6.5-r0_all.ipk
+MD5Sum: 0b425b401e2eb7511f45f3bb250817bf
+SHA256sum: 8ecbbd44bc1eb15b6f27e53c7f062e425058ad3afa06b0e2a589377c8336001d
+Size: 697866
+Filename: enigma2-plugin-bootlogos-mk-avengers_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-avengers.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-avengers
@@ -1227,14 +1227,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-breakingbad-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 3d6be4029db94380ecee329b6faa4589
-SHA256sum: 5f84c4678f9d7cadd71b35f6313c929bc9da00838379609ad23509978cd29980
+MD5Sum: 0b802d6b8e7523813a9dbef41dd1d94a
+SHA256sum: 02d6250d2884a671a10605803b29b313a1101affb0cacee16690bc1065ce80dd
 Size: 594
-Filename: enigma2-plugin-bootlogos-mk-breakingbad-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-breakingbad-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-breakingbad.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-breakingbad
@@ -1243,15 +1243,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-breakingbad-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-breakingbad (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-breakingbad (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 3b79fb5f2d7c097b5753cb5d0614cb3e
-SHA256sum: a8fa08e9eca603a6e6f095a488606ea0353ee36805bceb75c7b0c74d292ff2cf
+MD5Sum: bbca7620d9b842173e41039c35f49263
+SHA256sum: 41be5921c42f156876c886a87c4feb006a14cef40e70ace2cc17501c0a968fb6
 Size: 638
-Filename: enigma2-plugin-bootlogos-mk-breakingbad-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-breakingbad-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-breakingbad.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-breakingbad
@@ -1260,15 +1260,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-breakingbad
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 918f7faca2e69c34b8beda182309a8e9
-SHA256sum: a2090cf1d8d0513805f621cb03ea04c684cdf557c9a6f986da44c78f015b5f61
+MD5Sum: a10b1d45b5a6087dd52b60d539c17fd2
+SHA256sum: a1a7cd2a64544f4943991f49d1b1b7ec8ede6e0e1ec0444fc03ea0a640d652dd
 Size: 621932
-Filename: enigma2-plugin-bootlogos-mk-breakingbad_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-breakingbad_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-breakingbad.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-breakingbad
@@ -1277,14 +1277,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-duo2-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 0e61dd49d44e71fb75083e8090c1e9fd
-SHA256sum: 15b942566c26a0b645fa1178341f341bb43e6152e2b226bc98c05374d286cb78
-Size: 586
-Filename: enigma2-plugin-bootlogos-mk-duo2-dbg_6.5-r0_all.ipk
+MD5Sum: 92f2a82b67dec6b334913be121058c47
+SHA256sum: a3ee8fe5dc5292bb94e403b5c4944e32ccf85f364388f0f717b4b24d0ed7c514
+Size: 588
+Filename: enigma2-plugin-bootlogos-mk-duo2-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-duo2.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-duo2
@@ -1293,15 +1293,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-duo2-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-duo2 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-duo2 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 152266b5dac48b32378fd9c222ab41fe
-SHA256sum: 523cb65a1c1c54a64adecfff6e445820ce05317d8bc9442a8ab06892871c251b
-Size: 632
-Filename: enigma2-plugin-bootlogos-mk-duo2-dev_6.5-r0_all.ipk
+MD5Sum: a7478fab9cae7eb1bd2aa04b562f4fe8
+SHA256sum: 23e3dab63ef204104c2ffbb65f82af4d7a3017a9458164a6d384ad0a2a45bd41
+Size: 634
+Filename: enigma2-plugin-bootlogos-mk-duo2-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-duo2.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-duo2
@@ -1310,15 +1310,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-duo2
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 121a5f1c933f1f695d91376b95fc5ab7
-SHA256sum: 3bf44b27b0b05c9a4e50b3f6e980e9d5f9ce2f2ec12ead9d204c81959efa1cb7
+MD5Sum: 7383aee8bc194919d1b705d02c1d2f79
+SHA256sum: 2ddd62399b234c27f46290c6500cc2fc6dd76939b6c7d7db6effd22eaf15ab05
 Size: 293664
-Filename: enigma2-plugin-bootlogos-mk-duo2_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-duo2_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-duo2.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-duo2
@@ -1327,14 +1327,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-frozen-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 1bc47aa819fc342d61719010d45affdc
-SHA256sum: c9bc48daefe1dd0a06dab7529f9988b425134d0e74579670a4621462b74dc5d3
+MD5Sum: c6211a7385ab1cf88595b4f6269e5ba7
+SHA256sum: f027229f6ffbb1df9f2267aec14416a30ae15a889cde757e403f15c2fae50b96
 Size: 592
-Filename: enigma2-plugin-bootlogos-mk-frozen-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-frozen-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-frozen.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-frozen
@@ -1343,15 +1343,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-frozen-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-frozen (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-frozen (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: b87d22ab564ae2e41d526a47e5a71a1d
-SHA256sum: 20d336f463ae6e3b8bd2131181d6e9456158faf722a6e5fd5da51cdb8bdf642a
+MD5Sum: 456f435096fc377ec9222f3e802c510e
+SHA256sum: 45a22645d2e8011f92752d5e89c0961c2196f4218f0a5535041b6b1fef9cc612
 Size: 636
-Filename: enigma2-plugin-bootlogos-mk-frozen-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-frozen-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-frozen.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-frozen
@@ -1360,15 +1360,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-frozen
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ba21489379a103cf36a621f1011c44b2
-SHA256sum: ebc0e42addf9c028123a34a3d96a4ecf61957f622dac2dceb557203232c868c1
+MD5Sum: 340abdf34621ef00aefa23490105066a
+SHA256sum: 964d65aafbd4a907eac5c5c016ed98f17f78f3737937e185ba7f9b46fedc6077
 Size: 447524
-Filename: enigma2-plugin-bootlogos-mk-frozen_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-frozen_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-frozen.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-frozen
@@ -1377,14 +1377,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-gameofthrones-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: c9b6ca8631b5836e4b94b1cc7d3f5201
-SHA256sum: fc9d64ceda8a2b169a089478d68a3407344092f0f59b4aa9727bb78c3e3c308f
-Size: 596
-Filename: enigma2-plugin-bootlogos-mk-gameofthrones-dbg_6.5-r0_all.ipk
+MD5Sum: 7595a56416d5b2d265ac254949010e31
+SHA256sum: de5318f9ef98ef1d919bc3510d8005842fe10badaad29faca484aa39230638f6
+Size: 594
+Filename: enigma2-plugin-bootlogos-mk-gameofthrones-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-gameofthrones.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-gameofthrones
@@ -1393,15 +1393,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-gameofthrones-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-gameofthrones (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-gameofthrones (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 5de6bc53c6c9946ffa1f84fb19e6fd03
-SHA256sum: 546ff3323f8b0701b5d4c61781c883be3c356140ef5b437d29688fbc13d63b1b
+MD5Sum: 331a87cac2acda442b48d3dd4062e97f
+SHA256sum: f62ec4461a554f1b8422a8ec41b6b430714d9605bd69a66d6461ebe0e1b1dbce
 Size: 638
-Filename: enigma2-plugin-bootlogos-mk-gameofthrones-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-gameofthrones-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-gameofthrones.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-gameofthrones
@@ -1410,15 +1410,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-gameofthrones
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: e468b37554dccdc708313590af08ba35
-SHA256sum: 8c0632f4ff7a41738fb34b080c63f59047b81b144788e9d3d9baf7855f6a73a0
+MD5Sum: 4dc0a893e466c59062365e67dd31bd70
+SHA256sum: 5f6341cb53b40b13544317ddde74973afb1f6d963871db72f5a3e501ade07325
 Size: 567616
-Filename: enigma2-plugin-bootlogos-mk-gameofthrones_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-gameofthrones_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-gameofthrones.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-gameofthrones
@@ -1427,14 +1427,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-godfather-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: e1383e60ded365d331c5efd6a66b6046
-SHA256sum: 939624d345de47c996d120b86844c52413cd4b9f68490ab65af20a0ec35e3698
+MD5Sum: 9f0e4b7f9939200257a28ffaa94c14b3
+SHA256sum: 418df7adae3a01b26e715b13215bbb71d845f9abd5ff5ee5f6c490326a50b6c3
 Size: 592
-Filename: enigma2-plugin-bootlogos-mk-godfather-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-godfather-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-godfather.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-godfather
@@ -1443,15 +1443,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-godfather-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-godfather (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-godfather (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 0627aac4ffc3db610393fa9a79477f6f
-SHA256sum: d287e50e579d7a5ab40f5380f8c201ef4bbec21a402336c8ae366fca7d50ecb3
+MD5Sum: c8d9afa02c2e08ec4ae37a91be2c3087
+SHA256sum: d9ec1cc383972a0cafd7a336654a64e03d6d1aca65cd08f04799924bd5ed7529
 Size: 636
-Filename: enigma2-plugin-bootlogos-mk-godfather-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-godfather-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-godfather.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-godfather
@@ -1460,15 +1460,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-godfather
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 6b7ab5ff3ad24376e568abda345de433
-SHA256sum: 963760f49ebe17faad0c7024a6cf9ff737cc1ec14c0f2a6071c6a442c24f81ef
+MD5Sum: 9a17e2d86eaecce17f95deb84aeca370
+SHA256sum: 0ad343ccad3f29d15de77fe599075a4d17f99353ceae306f588a618dc4e16181
 Size: 263124
-Filename: enigma2-plugin-bootlogos-mk-godfather_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-godfather_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-godfather.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-godfather
@@ -1477,14 +1477,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-goldenplate-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 52106a36a1eb7e2b20b0a18c9db411ea
-SHA256sum: 4ff14c0bcd8c0a398918482253edd3e7d186efd7ccc43f9c23e51014c6d46996
+MD5Sum: 116e77cd3083779dcfca4f1be94b008c
+SHA256sum: 2dc0de232f1620d15a3952b3f80fd87ca04241ddc96fd802e56fbf9fe34bed2f
 Size: 594
-Filename: enigma2-plugin-bootlogos-mk-goldenplate-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-goldenplate-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-goldenplate.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-goldenplate
@@ -1493,15 +1493,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-goldenplate-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-goldenplate (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-goldenplate (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 41054a305fce5d71467bdb1768d4409a
-SHA256sum: 851ce0156c70d78adc8a22e586bfd3fbe22c7b333b2adf5dea6d89acb00edd87
-Size: 636
-Filename: enigma2-plugin-bootlogos-mk-goldenplate-dev_6.5-r0_all.ipk
+MD5Sum: a596adc11009dcd67df624cc0e4d13af
+SHA256sum: 9ef7a3c85aeedf669c2e6095b38e8f95af1bada19c595c05a64db82a7da870b1
+Size: 638
+Filename: enigma2-plugin-bootlogos-mk-goldenplate-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-goldenplate.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-goldenplate
@@ -1510,15 +1510,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-goldenplate
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: f80c9565bcd2899b1f684d2a0b52597f
-SHA256sum: d8f5b53f895de81a9f40c9e46e5e38d75fbc0dc55c350dec7f1e0a930f75269d
+MD5Sum: e9f2c5fef5669daf1ea65347de7fce70
+SHA256sum: 2bc6258e6d3c0b26b59b8e753de8df6eed647b9c543a7ea04b10f33ff895a147
 Size: 813166
-Filename: enigma2-plugin-bootlogos-mk-goldenplate_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-goldenplate_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-goldenplate.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-goldenplate
@@ -1527,14 +1527,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-joker-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 392b1923dc2d1bd3fb9784e7cd9e43ad
-SHA256sum: 4a4f0c65cba5de89f46d4c0ecbe555a2e41db462263fae273a3bc6a33e2a4aea
+MD5Sum: 8aad25b69942623af19e56775e0a0a13
+SHA256sum: 6d2443edfc5709f4c7d4b4cbbcfdb7e1cdfb5382b8f63f06ba91b0b8ec6b68fd
 Size: 590
-Filename: enigma2-plugin-bootlogos-mk-joker-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-joker-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-joker.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-joker
@@ -1543,15 +1543,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-joker-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-joker (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-joker (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 58ecadb113577926bb8413f46c4a7928
-SHA256sum: 24edd0c240f98dbe28c729ec4663e1adc2999804248be1792c07b48b170a0903
+MD5Sum: 57832b147241e04b3001879fd6f01ba4
+SHA256sum: 36bc95ff5073ef0e75ca87ca187bb833f4a458af7128d3ffd67483865fd54e6a
 Size: 634
-Filename: enigma2-plugin-bootlogos-mk-joker-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-joker-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-joker.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-joker
@@ -1560,15 +1560,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-joker
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 0d0a1c9addc28ca26bac57a1165fd9e4
-SHA256sum: f55e7ec6538b6e1a9756d7dc883f43f2f062665840adfe9f65ffc0d47a69b02a
+MD5Sum: f1aa00beb7427978e91563828fec720a
+SHA256sum: 89fd284b4123d51fd796925600dff68be8a6860aad4a9360c1d15395f84fd225
 Size: 276302
-Filename: enigma2-plugin-bootlogos-mk-joker_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-joker_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-joker.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-joker
@@ -1577,14 +1577,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-lykanhypersport-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ec31431fd3afa907bf099ab09694e46c
-SHA256sum: 9f11e802d1310bda5fd09420f3c08bc9d8170887927660153a6aa67875347d98
-Size: 598
-Filename: enigma2-plugin-bootlogos-mk-lykanhypersport-dbg_6.5-r0_all.ipk
+MD5Sum: c068a33bc6e07379236dd5fad233d56c
+SHA256sum: 68f714f169bd8ef593b9c4b59f2b085af12c278313da2e4cf9b8b7a5daa212e2
+Size: 596
+Filename: enigma2-plugin-bootlogos-mk-lykanhypersport-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-lykanhypersport.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-lykanhypersport
@@ -1593,15 +1593,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-lykanhypersport-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-lykanhypersport (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-lykanhypersport (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 110b9e2007c669190a792c98b197ce67
-SHA256sum: ccfcb9075c242d19146222307ef00da37aef5ca6e76552efa527ec630ef2f1eb
-Size: 640
-Filename: enigma2-plugin-bootlogos-mk-lykanhypersport-dev_6.5-r0_all.ipk
+MD5Sum: 55774cd34447775bcb81e7c89d324db8
+SHA256sum: b820f647eb34325dda5f92ae294ddc9cb1994df1f8d96061fdac9431d79d7665
+Size: 642
+Filename: enigma2-plugin-bootlogos-mk-lykanhypersport-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-lykanhypersport.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-lykanhypersport
@@ -1610,15 +1610,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-lykanhypersport
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 3432a310fea8c878cdf8bfb0c3f05fb2
-SHA256sum: 7927a695125a12dbcac5ecfcc2bdfb59974007f6cb9938b305e5ace4dc65d09f
+MD5Sum: b1715c11cf9693658ed82c6fce4220bb
+SHA256sum: 4bf78aa15e7d6fc1e2205f88841733029a267156780e62b4e321f0e769f6626a
 Size: 397884
-Filename: enigma2-plugin-bootlogos-mk-lykanhypersport_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-lykanhypersport_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-lykanhypersport.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-lykanhypersport
@@ -1627,14 +1627,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-minions-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: aa6614c647f1d1f8236768b937314934
-SHA256sum: a846d80e8521a1bd01cad3ad14625c57e8de7e6f42db11a90dcabdff0182ea84
+MD5Sum: 22ffc00b279377b64856bb0d9f00a380
+SHA256sum: 78d2012a8d5660782c77d67036a88e3dc4f808129d455de42e73a50508b219eb
 Size: 590
-Filename: enigma2-plugin-bootlogos-mk-minions-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-minions-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-minions.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-minions
@@ -1643,15 +1643,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-minions-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-minions (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-minions (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: d4156988a3d5fde90cebdd6ba64966b4
-SHA256sum: 87fbe51bd2171e731bfdbd874387b10a0105f232b0df31c52e31e4174e7d2b16
+MD5Sum: 38e31cfc11c7a7162c9380b8ef3ca582
+SHA256sum: 17ede5f7992338efe98d3257723f15b63b41e2d3aa9437bd17c0e2d8cb4fbbad
 Size: 636
-Filename: enigma2-plugin-bootlogos-mk-minions-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-minions-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-minions.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-minions
@@ -1660,15 +1660,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-minions
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4ca94b8fa60fef8c3c4d159a6b56c5d6
-SHA256sum: a277217ca81f639b812b8d2ec26979ab95339526a26f1d23cdc5d0f62639d982
+MD5Sum: 68fa7a1e34ac3c92592fd7c5f7aff50a
+SHA256sum: 5ac5dc24edae33f1128020bfb9fb4c220be198f3dc5f0de4236792f72f9e78fa
 Size: 414638
-Filename: enigma2-plugin-bootlogos-mk-minions_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-minions_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-minions.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-minions
@@ -1677,14 +1677,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-scarface-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: c64b570fa163354b2dc65592f0fd4db2
-SHA256sum: e91730c41ed144468fc8724ca30a5a302127d4990ad1aaad312e4c0ad7f70ab6
+MD5Sum: 102a68b844e009d59c03de7775f44507
+SHA256sum: 3897b53201a821c99903379cb570bfd31a8a1e7bf8e2b877ded55c56c231cb59
 Size: 592
-Filename: enigma2-plugin-bootlogos-mk-scarface-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-scarface-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-scarface.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-scarface
@@ -1693,15 +1693,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-scarface-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-scarface (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-scarface (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8f2b18dc8a0adcab6df2d665f1e62ee7
-SHA256sum: a622a1b35f23e703468ecd8b4546e625d548825434b8e9ee18735ad63abe1d6d
+MD5Sum: f16b843d202053a8eade9fe4e5e157d7
+SHA256sum: 1556c3962c7db69ac9660b4c408c1e35bf2a258fa124f35d5e86c1f4e9b309ac
 Size: 636
-Filename: enigma2-plugin-bootlogos-mk-scarface-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-scarface-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-scarface.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-scarface
@@ -1710,15 +1710,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-scarface
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 83ba0423b3e6ad12429293aca543a954
-SHA256sum: 7bda8e426a1b87107ebd57cd3433817e9f9f86784fb767c5f989dd4f821fa5b2
+MD5Sum: 41293b3961668493804a7fa1085b653f
+SHA256sum: 66edc7c81b4c965dee1c19c98796fb22acdca904460feedfed2d0f26dcf01ae0
 Size: 274370
-Filename: enigma2-plugin-bootlogos-mk-scarface_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-scarface_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-scarface.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-scarface
@@ -1727,14 +1727,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-snowleopard-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: f73c8734d7a0ceb426bf278e6126150c
-SHA256sum: 57672f3cbfb3efe4dd42ffc7dc1db986047095e5fb42eda73c4c25090b8bcf4d
+MD5Sum: 92231204e51ff052dd334dc749e24cc2
+SHA256sum: b450d02bdecefb5a882910b7787594f87f870f9850c5f3fee0829cfb681d913a
 Size: 594
-Filename: enigma2-plugin-bootlogos-mk-snowleopard-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-snowleopard-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-snowleopard.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-snowleopard
@@ -1743,15 +1743,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-snowleopard-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-snowleopard (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-snowleopard (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 6b343284638b65a9b4c7d2ff4005e23d
-SHA256sum: 2f6e1fc4230ac82d298ef045c901ea4ae0a9ab54da233164cabe745d127ddeee
+MD5Sum: 01f334c507e19721ad6289820f611e85
+SHA256sum: fc9be4492bf3a49647eee5011e8b2ea44e9cb8b9e1d80696674882c0226544f6
 Size: 638
-Filename: enigma2-plugin-bootlogos-mk-snowleopard-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-snowleopard-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-snowleopard.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-snowleopard
@@ -1760,15 +1760,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-snowleopard
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 3f3f416a9294479e49de592d12183676
-SHA256sum: 83ab0d919882b9a29fce124360e1b4a7210fd3a9819bef24ea1dac53e4228121
+MD5Sum: 538bc40407ee10631b1d3acd6468dc41
+SHA256sum: f5a58cb063caa112e45b1a8f12abaf64e66893b685e01c0bc49c363bca41d773
 Size: 379834
-Filename: enigma2-plugin-bootlogos-mk-snowleopard_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-snowleopard_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-snowleopard.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-snowleopard
@@ -1777,14 +1777,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-terminatorgenisys-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 65e40fe5c55f1e15997ca8a816d04fa7
-SHA256sum: 46903d26cd6459c69134b8b8ab0d704980544228bdc113593b11d8a85a4a16ff
+MD5Sum: 16448419f7a20b94d93d0db1c620b88c
+SHA256sum: 22e3c396e50c75225fd9255a5cb64278090e63b1903a52e8a5992c2fefee6e43
 Size: 598
-Filename: enigma2-plugin-bootlogos-mk-terminatorgenisys-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-terminatorgenisys-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-terminatorgenisys.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-terminatorgenisys
@@ -1793,15 +1793,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-terminatorgenisys-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-terminatorgenisys (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-terminatorgenisys (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 48e713ff287f67b3af33384e237ca407
-SHA256sum: 69a2472cc5dbd34cf93d39c34b26e411cd3fb617d16c43283c0ab0bae9848c7f
+MD5Sum: a851af818f2a4288d1d140d3a05986f8
+SHA256sum: 8f388861b08a162b753fd173de2e019bfb0026e7cb96a25543f35cadff00e179
 Size: 642
-Filename: enigma2-plugin-bootlogos-mk-terminatorgenisys-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-terminatorgenisys-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-terminatorgenisys.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-terminatorgenisys
@@ -1810,15 +1810,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-terminatorgenisys
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8b0106cee107876068729161dc4127aa
-SHA256sum: 3384c14ec02a92f5563c957f5a39fdfb2bd049de74f89903aabb17bc06ff41a0
+MD5Sum: 44e44fa759dc86c1f6bb7d80b3d2a845
+SHA256sum: abce3999d5319ea6422e6d3b15c1d069a11eb130cded4952986fed3a3176129e
 Size: 534720
-Filename: enigma2-plugin-bootlogos-mk-terminatorgenisys_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-terminatorgenisys_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-terminatorgenisys.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-terminatorgenisys
@@ -1827,14 +1827,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-tiger-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: dbf20b047c91db1f50d1de8b6ec37aa9
-SHA256sum: 53371a2bf75bd7ff875603ce4ec4e258ad7a62852aac6d73029b1d8a7407b1e7
+MD5Sum: d4b9631f30e2af2a1913e5449ccd7c42
+SHA256sum: 3b2b6074947eede8c95c4737b0f5b3e203dfb8e4c167a0e6b5bdf3c791aa0a12
 Size: 590
-Filename: enigma2-plugin-bootlogos-mk-tiger-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-tiger-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-tiger.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-tiger
@@ -1843,15 +1843,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-tiger-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-tiger (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-tiger (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: a335b5ac0020d30b3736e29452f6eb8e
-SHA256sum: b612eb5e541513791abf69651ef689535aee88e8d57b96b431ed1ce72c18bb00
+MD5Sum: 22eee11d3a9e97a901cbafbf666c4647
+SHA256sum: a4cee5ec85684d359b86fbfaf0be2e57229090ec790385eba7e26671ad199d02
 Size: 634
-Filename: enigma2-plugin-bootlogos-mk-tiger-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-tiger-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-tiger.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-tiger
@@ -1860,15 +1860,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-tiger
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: d51ff8e8d2cee9f166c451ce3406a851
-SHA256sum: 4cc8d35690d2a644ef564485a322b9f8a7306ef4061949d8cfe64186be422266
+MD5Sum: 31480e8e1bec928bb12dfcccdd2c03ab
+SHA256sum: 7329e11b76d95186a1d20d94cb8a2b98b9ce9f2be80179ff18c6b969c5ba26e3
 Size: 454334
-Filename: enigma2-plugin-bootlogos-mk-tiger_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-tiger_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-tiger.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-tiger
@@ -1877,14 +1877,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-tigerglow-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 2fec5549bbab4ca72cb47a6ba5baca14
-SHA256sum: edca43f2d1134c45b7539a48a740c86d4e17300f5cc4ad3080d0e40eb27004f2
-Size: 592
-Filename: enigma2-plugin-bootlogos-mk-tigerglow-dbg_6.5-r0_all.ipk
+MD5Sum: c0ab6b767ca61792250f3ab53c8f09e9
+SHA256sum: adcc7a8f800d8decee1f347e99a7c02641e1f66b67aa48d6b2acd177e476a261
+Size: 590
+Filename: enigma2-plugin-bootlogos-mk-tigerglow-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-tigerglow.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-tigerglow
@@ -1893,15 +1893,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-tigerglow-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-tigerglow (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-tigerglow (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8e35fb655e4703ab2bac7cab3b933712
-SHA256sum: bd2f7ab45136c56849eb0916bcf8c61469eff48482ac1a10d444e1e5b9d231e7
+MD5Sum: 999781bacd55fb7c141e8f6b46e24e22
+SHA256sum: 25465bacf98f9b086a017c2f6ba709c7cf16c0f60c598fa47a44969e6f495e25
 Size: 636
-Filename: enigma2-plugin-bootlogos-mk-tigerglow-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-tigerglow-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-tigerglow.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-tigerglow
@@ -1910,15 +1910,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-tigerglow
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 5020d911b4782403ddc1278c9f982ea7
-SHA256sum: 697d534af8e306df339e31d760b9cea0e1d8e66410beb38fabb2cfa38bee8e16
+MD5Sum: c73e37f157e7fb4291db0ea7780d0fd8
+SHA256sum: 8305adb69ebaecd1adf7329d20d4696d4eef12ea9358b2f361979b07548f125d
 Size: 475728
-Filename: enigma2-plugin-bootlogos-mk-tigerglow_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-tigerglow_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-tigerglow.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-tigerglow
@@ -1927,14 +1927,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-vixsteel-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4915ab6dda26dcd1ac9090b66892eefe
-SHA256sum: 2336f7fa58624403cd6a8ac46aa66b1cc00c2f4e8a6060a24fbbfe991fe88990
+MD5Sum: b09b8f75026bdd89dfa22d3e5f0fb478
+SHA256sum: f95600d1b07a1a02a67ad491079342c9c35184ab99a4390bb59172fa9a3c32fc
 Size: 592
-Filename: enigma2-plugin-bootlogos-mk-vixsteel-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-vixsteel-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-vixsteel.bb
 Description: MK Bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-mk-vixsteel
@@ -1943,15 +1943,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-vixsteel-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-mk-vixsteel (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-mk-vixsteel (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 93a6e3c8a725866a0aa04c152166b144
-SHA256sum: 2914fa0db41c382c1babe3b343d153db20b5b3557ab0af6730005d0040e3eab6
+MD5Sum: 67bb6dd5c355c5b78dc0ca432a0a422e
+SHA256sum: f667de2f6ec7dff07798aefa91114a6f145db7306e99fc3cde2584f68961b4c2
 Size: 636
-Filename: enigma2-plugin-bootlogos-mk-vixsteel-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-vixsteel-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-vixsteel.bb
 Description: MK Bootlogo - Development files
 OE: enigma2-plugin-bootlogos-mk-vixsteel
@@ -1960,15 +1960,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-mk-vixsteel
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 86badc6f0736cefd3598ca34ee312bea
-SHA256sum: 96ad39f6925d4f6e40a22b1de3a8823982dc5f14e4292a53d5db684838cc802e
+MD5Sum: 0329ed2256a4393bf627fa5bd935c64f
+SHA256sum: 7082f6ff71dcf5639b14321fe13a027f37457326fe143ef4bb37cf60c1f0bfb2
 Size: 869316
-Filename: enigma2-plugin-bootlogos-mk-vixsteel_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-mk-vixsteel_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-mk-vixsteel.bb
 Description: MK Bootlogo
 OE: enigma2-plugin-bootlogos-mk-vixsteel
@@ -1977,14 +1977,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-helios2-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 7664d21c7c1c098c6f8ea6aa095eb5ef
-SHA256sum: ec2fdde4fe188d8348536aaa7060a58e585a1abcb9f46628e54161a33eda2181
+MD5Sum: 59eb415592f35d66278398573c13a79a
+SHA256sum: 20843d7c13f14645b08ac77253d7a762b7297ac160e11f6722d2a02afad01d30
 Size: 600
-Filename: enigma2-plugin-bootlogos-openvix-helios2-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-helios2-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-helios2.bb
 Description: OpenViX bootlogo Helios pack2 - Debugging files
 OE: enigma2-plugin-bootlogos-openvix-helios2
@@ -1993,15 +1993,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-helios2-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-openvix-helios2 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-openvix-helios2 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 9f3055b214052619b54f6849b1d2de8d
-SHA256sum: 37eb07e1b4f42dee8f06e49f7b797f1509607c1ea08879678cbc4e2b5a6a5c20
+MD5Sum: e99e4f4d47282949ad4cb621249f04e8
+SHA256sum: a73be81d5792bfbabf4d21cd941efeaf60627411aaeafc1389eff41f63bcd5be
 Size: 644
-Filename: enigma2-plugin-bootlogos-openvix-helios2-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-helios2-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-helios2.bb
 Description: OpenViX bootlogo Helios pack2 - Development files
 OE: enigma2-plugin-bootlogos-openvix-helios2
@@ -2010,15 +2010,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-helios2
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4116894ad851b3b6006b370840286480
-SHA256sum: d398b69df4119c2cb5d9242f7f137618f8b65619ce8c56fab397a725d5e9c42a
-Size: 701142
-Filename: enigma2-plugin-bootlogos-openvix-helios2_6.5-r0_all.ipk
+MD5Sum: 1b23707759e3c6ad8d675c95ea2b02c9
+SHA256sum: 611bac29f8e6e9d17187a3f77926c08f61dfa4a59a1e1482ca4e7b24d83f0d7b
+Size: 701140
+Filename: enigma2-plugin-bootlogos-openvix-helios2_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-helios2.bb
 Description: OpenViX bootlogo Helios pack2
 OE: enigma2-plugin-bootlogos-openvix-helios2
@@ -2027,14 +2027,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-helios3-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 5b028ef98c2e47af0c4f077009815556
-SHA256sum: 280e6febc122913f017498ba72f2d1df86385c731630db796471b8b1d35aa09e
+MD5Sum: 9adfdb7d3f4a03c3f1ed0573c7635d88
+SHA256sum: 8e73ec7c20781c6bcef93ea18044921770cc036d77ca55a38f8cab91fbf5562e
 Size: 600
-Filename: enigma2-plugin-bootlogos-openvix-helios3-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-helios3-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-helios3.bb
 Description: OpenViX bootlogo Helios pack3 - Debugging files
 OE: enigma2-plugin-bootlogos-openvix-helios3
@@ -2043,15 +2043,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-helios3-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-openvix-helios3 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-openvix-helios3 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: d03e2313f7252afc628f6a844bb25083
-SHA256sum: 475fc7ced3f35f8dd6110b2c39a774a748a6525ba1b72a431fe773363403d659
+MD5Sum: ec823fe5f3033d6eeb0ce4c364e23c91
+SHA256sum: 9e85b3198ca9e2da40a07f792d7a876e1d460f325d6629ac3fcef4f6674b5ba4
 Size: 644
-Filename: enigma2-plugin-bootlogos-openvix-helios3-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-helios3-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-helios3.bb
 Description: OpenViX bootlogo Helios pack3 - Development files
 OE: enigma2-plugin-bootlogos-openvix-helios3
@@ -2060,15 +2060,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-helios3
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 2e879b2849d8181a21a631292970860e
-SHA256sum: 2fb8f0c1efcb99c297a3e19745e0bf4149a144f49bf04e074ef3215518a5651f
-Size: 1060690
-Filename: enigma2-plugin-bootlogos-openvix-helios3_6.5-r0_all.ipk
+MD5Sum: d2fb35d398ef7abf93f0884a812d6c2f
+SHA256sum: d74378204809f83b8839471ac3f0676e8557339567ff40be7593f4093db403ff
+Size: 1060688
+Filename: enigma2-plugin-bootlogos-openvix-helios3_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-helios3.bb
 Description: OpenViX bootlogo Helios pack3
 OE: enigma2-plugin-bootlogos-openvix-helios3
@@ -2077,14 +2077,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-v3-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: c39e6afa1556fc4f6348829e18f40af9
-SHA256sum: 257a8955d11b46068d2fcae36c36cd925e0e18ce4a48c3df2df3945febbba0e0
+MD5Sum: 6a951716854eb153263422eb48e6371d
+SHA256sum: 01a09afb239bd5a4bb7cdc784b9437bff38a59ec72c1943ac4df868f8ea0122f
 Size: 592
-Filename: enigma2-plugin-bootlogos-openvix-v3-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-v3-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-v3.bb
 Description: OpenViX 3.0 bootlogo - Debugging files
 OE: enigma2-plugin-bootlogos-openvix-v3
@@ -2093,15 +2093,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-v3-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-openvix-v3 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-openvix-v3 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4c99c5df8575f2a2d370ce6f9053d169
-SHA256sum: d9999bb704be19f299c18e46dc929aef1d945e277776d556ff669ae889f1f35c
+MD5Sum: 53706e53fb588ddd81dd2002a7924406
+SHA256sum: 9688896e6fc70169c1728d59dd704d2d25dd0d847faa422c0bf41c199b866396
 Size: 636
-Filename: enigma2-plugin-bootlogos-openvix-v3-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-v3-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-v3.bb
 Description: OpenViX 3.0 bootlogo - Development files
 OE: enigma2-plugin-bootlogos-openvix-v3
@@ -2110,15 +2110,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-v3
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: f11c624fd2d42e8892d271a8a4189804
-SHA256sum: 3ea8b4f9845fb224b6411fb69cc22d91019a11f4b48b1c3a5b00b78e2d408844
+MD5Sum: b94dfb835d43363499d0cb90ca33c1e5
+SHA256sum: 77c073a4529c730783db325fd2445f10f4dda011e3801b9271aa5cfd7ca0e903
 Size: 393876
-Filename: enigma2-plugin-bootlogos-openvix-v3_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-v3_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-v3.bb
 Description: OpenViX 3.0 bootlogo
 OE: enigma2-plugin-bootlogos-openvix-v3
@@ -2127,14 +2127,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-zeus-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: fb77b8ffb58d20da094e62cdf9beea6d
-SHA256sum: 58d0deb71d5c73949bfa22ff52b337cbaea30ab03d16a6cec0576944a46cbdb2
+MD5Sum: daa64af161694dc8cb6e67af460a51f4
+SHA256sum: d4f3fb97c0f61a6a1e0805a2745d67d68f156994b167a549557d4f845f16c7d4
 Size: 596
-Filename: enigma2-plugin-bootlogos-openvix-zeus-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-zeus-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-zeus.bb
 Description: OpenViX bootlogo Zeus - Debugging files
 OE: enigma2-plugin-bootlogos-openvix-zeus
@@ -2143,15 +2143,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-zeus-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-openvix-zeus (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-openvix-zeus (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: f72e0842f04a2e85c370f0b12517f84c
-SHA256sum: 922d17418ff3c9277f71931a72ed544db6cf625ee4d6b7c5319e97e150f850c8
+MD5Sum: 57f00babdce22761e057e07b9191f0fa
+SHA256sum: 9dfc2aa49786f76b8c3f98399540fc94606735c350a7f1dee5e21c82ffccc5af
 Size: 640
-Filename: enigma2-plugin-bootlogos-openvix-zeus-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-zeus-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-zeus.bb
 Description: OpenViX bootlogo Zeus - Development files
 OE: enigma2-plugin-bootlogos-openvix-zeus
@@ -2160,15 +2160,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-openvix-zeus
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 874263c3854744d8361693ffc8dae3a1
-SHA256sum: eca9f20419ec6dde23336b81e41cf8de5bbe237251db36b12b678554bb3abd69
+MD5Sum: 41c27025dea5eb7fb9d1d2c3f42232ee
+SHA256sum: 9dba2892af09734343a0f6a80dd0e2e41c74e5e42565930790b80b404d5129cc
 Size: 323104
-Filename: enigma2-plugin-bootlogos-openvix-zeus_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-openvix-zeus_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-openvix-zeus.bb
 Description: OpenViX bootlogo Zeus
 OE: enigma2-plugin-bootlogos-openvix-zeus
@@ -2177,14 +2177,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix1-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 0b86cd51f5788189aa7a41c0ce187754
-SHA256sum: 8e5eca6eb7f72bed52592f68c755a7ecbd7d471646df0a9621dea3187748ac22
+MD5Sum: ecf3d7c14fbe29253e3b72465cb49764
+SHA256sum: 1f7ba7062c0608cc225f204b0edddc743c9363d077c15ab60e4715bebf3fda95
 Size: 604
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix1-1080-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix1-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix1-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix1-1080
@@ -2193,15 +2193,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix1-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-openvix1-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-openvix1-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: e06a4752679a371766096b00a596b594
-SHA256sum: 45305f84c0ba29b82dd86b3d77ac25ecf273b14b6591396bf200fa1a53d6010b
-Size: 650
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix1-1080-dev_6.5-r0_all.ipk
+MD5Sum: 91b381dc7c6a87b0c1e31b3435618586
+SHA256sum: 2000fb0eae266b272f04e4fc65f9389d33018bd66af0b9ae85a30b8e6128807d
+Size: 648
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix1-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix1-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix1-1080
@@ -2210,15 +2210,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix1-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 53c5c9559f4fd811ef1c074426ff0140
-SHA256sum: a9acd7058a6033485c22f40d4ddc0a9cb24ea754ac3f1849d12810c6759a22f1
+MD5Sum: ed38bb34846373d9ed2f7cc0e9c413b4
+SHA256sum: 44c729120ad2c9642b5e66fc9294d08a48c83e884df1950bb725c4b35ba57bea
 Size: 334838
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix1-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix1-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix1-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-openvix1-1080
@@ -2227,14 +2227,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix2-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: ba7821685ec6ea3ac65e23ffa4d81e85
-SHA256sum: a0fad94dc0fd56bd9ecf49b15cfe196c2e16aef164d655db8f3f6f7113243b42
+MD5Sum: d7ee9a5be417289a977e0cb6187f1650
+SHA256sum: 0992200a91eb73e5708cc213375481c070c8dc75259117f700ae4f4065ea12b3
 Size: 606
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix2-1080-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix2-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix2-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix2-1080
@@ -2243,15 +2243,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix2-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-openvix2-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-openvix2-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 748470ab3b94685fe95b81fd2b3524a4
-SHA256sum: 8727fcd297503f3048186e8d22ed190887ed5fc4e0e995fe5ba448365606ac5d
-Size: 650
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix2-1080-dev_6.5-r0_all.ipk
+MD5Sum: e51a0aad96831306271b4a2190b25424
+SHA256sum: a795b7ead3448b9fc9f34f0d7fb714653410d936b826e265a8213691740abcf1
+Size: 648
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix2-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix2-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix2-1080
@@ -2260,15 +2260,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix2-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 7a4a5a3eba55a1b0748c775461fda5ca
-SHA256sum: b05cbe07b8bd89ffb1da541e8798c3a367a7806e0d9a1b24ceae449022eefac0
+MD5Sum: 9948b0668343e998706ef784d0109baa
+SHA256sum: 4c432cc34b7d0445cdc3837dd01b826dd34cfe8a86baa51e57fc9c5e981ab101
 Size: 319564
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix2-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix2-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix2-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-openvix2-1080
@@ -2277,14 +2277,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix3-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8789949f9f70da9c083d885ea62f5bd5
-SHA256sum: 97fc5cf86cb1d29ad358518f1cb469bca75a4b7321f6abf0ae5f82be03e1429b
+MD5Sum: 4cbae734a1d3be7e6f759cc945efd42e
+SHA256sum: b99743196a93680f1ca0a50d8926d3008d2b5159c984cabee4105b8ff53f0f19
 Size: 606
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix3-1080-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix3-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix3-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix3-1080
@@ -2293,15 +2293,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix3-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-openvix3-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-openvix3-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 1313de1852c06fee8ce9aa161fbb10c7
-SHA256sum: c381f3edfdac87653ff44d221b91fa3796d848393ff51f1986be2699e2bb9cf0
-Size: 650
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix3-1080-dev_6.5-r0_all.ipk
+MD5Sum: 073a8a4271871d894ded7546e08961ba
+SHA256sum: c2429add5976693301f32c2f37f95146cbc21a40ceb1fe68433964c951a74042
+Size: 648
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix3-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix3-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix3-1080
@@ -2310,15 +2310,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix3-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 2d1b260a8d0f67cfb2d23ff1c84dbc35
-SHA256sum: dd67fd256f1a1b02e812fd19988c6b5ee260360c2a1d017eaedc857ab2461cc6
+MD5Sum: 068c91b442771d047fe80efaa10c53b4
+SHA256sum: 6b0a3b466c5442c6412f2719ae2ab81acc16ac95b732a0af8e139cbab27c0d49
 Size: 493110
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix3-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix3-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix3-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-openvix3-1080
@@ -2327,14 +2327,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix4-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 6ce725fc67df94cc530d5b980a9bd676
-SHA256sum: bf51f4a60da66f1199ca82be67f62f682cbebf15e58a83c09cad93de735d0004
+MD5Sum: 300dbc62118ee5e3703b9e8ff21eb95e
+SHA256sum: 9f51543e00b83d8fa12b53bd2efb021b606461d946defe6a422a3b0beb92d192
 Size: 606
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix4-1080-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix4-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix4-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix4-1080
@@ -2343,15 +2343,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix4-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-openvix4-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-openvix4-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: a79e3ad97669d94528fb46fe720608fd
-SHA256sum: 188207b63d49dea05dc156341456c178f430f57d8897edca5ca4a75ae8d694fe
-Size: 650
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix4-1080-dev_6.5-r0_all.ipk
+MD5Sum: 7a450816dfded842fff1ac3a8d81d3a1
+SHA256sum: fc75ea6bf4c655d7721d2d5cd5904480373ba6ea22d3e5f64bbab1719626965d
+Size: 648
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix4-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix4-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix4-1080
@@ -2360,15 +2360,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix4-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 786badb09fffea814e71f2fe84476749
-SHA256sum: d6f783a6aea706e5d47bb19003394a52cf3014652ebb13474a86f26a538ba561
+MD5Sum: ee845b61ee52be1f288d773520edfad9
+SHA256sum: af6a892b7de7b90e2578dcad8472844c4c227747c9c78dc8fc15ff8527d1b1a6
 Size: 254104
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix4-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix4-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix4-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-openvix4-1080
@@ -2377,14 +2377,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix5-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: f274981d8398468ef7945a7cb24fd90f
-SHA256sum: bc40856ec2391ccb4823e0ffeece0a27cbb9345e37573699c89af2f9221fe7bd
-Size: 606
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix5-1080-dbg_6.5-r0_all.ipk
+MD5Sum: 614c88f47b76784c23d9835e12ea77fb
+SHA256sum: eb602333fd2201bbee19bcc2e704670ff409611cbf2f1a5b8282e8c9b8db5a9b
+Size: 604
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix5-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix5-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix5-1080
@@ -2393,15 +2393,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix5-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-openvix5-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-openvix5-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: fdb08d6d56f1ff71e71fd8ec18ce072f
-SHA256sum: e3fe2252c7a568ac15a0358e6112d5d2ac4baf8efba8d955a9e89dc6e99e2b74
-Size: 648
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix5-1080-dev_6.5-r0_all.ipk
+MD5Sum: 5761cd7e7610cc1a9d503657f26f4d9d
+SHA256sum: 6ff974f0e7c580c2eb45c4a34b9d655f12e6a4b0ed50508e572fe6f4c4b4bcdb
+Size: 650
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix5-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix5-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix5-1080
@@ -2410,15 +2410,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix5-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: d4be9724948ab532ad869ad9240d9708
-SHA256sum: 7260c1738fb3d3e8bfa72b91889778a7c4ee87d68a627684375489600fbe28ba
+MD5Sum: cac63049c160d252a8f0740a06555834
+SHA256sum: c0d9c9741e451e87d80170c39e3c234b293bd83e971492f242d77c128c81bfaf
 Size: 270094
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix5-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix5-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix5-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-openvix5-1080
@@ -2427,14 +2427,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix6-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 624f5da8231b67a55b5e4ba6db5bf2a9
-SHA256sum: be8b31a2f222e4ff8950a2139bd360efbfcfa0af68da8a082d00e71c83469619
+MD5Sum: 245d48aae4d329948eef857a089f0031
+SHA256sum: efd4ac749cf35a101ce4a62b18df8ca49a3393d004dc11c47805b7d23726d186
 Size: 604
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix6-1080-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix6-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix6-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix6-1080
@@ -2443,15 +2443,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix6-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-openvix6-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-openvix6-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: af7d9e2f1a51b172e152166c189d7ee8
-SHA256sum: ed1a4b58df0ce2efaa37049bb694f46f3c5f70b8f77b17342226329d05a818cc
-Size: 650
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix6-1080-dev_6.5-r0_all.ipk
+MD5Sum: 839fb56e63cbd64f8f7bca01672f02e7
+SHA256sum: 2e649e041fc629cb32395726d3277f94b65a167957c6defccf2be2cb7e25ca52
+Size: 648
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix6-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix6-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix6-1080
@@ -2460,15 +2460,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix6-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: b7c70f7c5aa38289577053a904433d84
-SHA256sum: f0a50e9538459fce7014fe148276d89386d89de731f65f83c0ef0c40084a0935
+MD5Sum: 912e68e9f277163ec8c61bb60e3e37dc
+SHA256sum: b3764f014b63e41fe70ef2d5a0b7c9aa356864b8688feaff6a5c0887ed0b8432
 Size: 328780
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix6-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix6-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix6-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-openvix6-1080
@@ -2477,14 +2477,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix7-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 42faf0497be6a50cd9c502857628d1e4
-SHA256sum: 3957b2e7345a7b0057247afad568e17b2960967636228a684930f1b7197bc957
+MD5Sum: 929010bb0affc365810a917fdba01730
+SHA256sum: 464c2c8b6e5a4333cc9baef3588735403c66b46c7362d7f9f4cde635fd7cda0e
 Size: 606
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix7-1080-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix7-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix7-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix7-1080
@@ -2493,15 +2493,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix7-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-openvix7-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-openvix7-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 253671389caa6dea8d742c972225b653
-SHA256sum: 7d6b406985c3c042e9d78c815afa6e95222e3d29cb3a70ef5a0ee57ac9f027ab
-Size: 648
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix7-1080-dev_6.5-r0_all.ipk
+MD5Sum: f78d61063dd2653ee81be718cffafad3
+SHA256sum: fa829fc6f7f033e2d7284e72733a2a6c67f2f9e6d72086c01460049fa04487a8
+Size: 650
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix7-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix7-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-openvix7-1080
@@ -2510,15 +2510,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-openvix7-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8642848273029122a8e47472b31dbd44
-SHA256sum: e269600787cadf7464df8c6d6b941026350084f8756255bba5df2eb447886753
+MD5Sum: 51d30e3a0160d1750e63f4a5a9327a4a
+SHA256sum: 05626abb8b1561155b8b17987bf49cf266438ab8a9e76e05397fbad252f240d7
 Size: 279274
-Filename: enigma2-plugin-bootlogos-rossi2000-openvix7-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-openvix7-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-openvix7-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-openvix7-1080
@@ -2527,14 +2527,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-youvix-1080-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 8ef53c95b25369d73e87418f55598508
-SHA256sum: 3e36a3a6df30e307106e86ce3d64fa0170c89cf417aa783bae8280cb32d53397
+MD5Sum: e0d7e081874d3873895581c23a90fdd3
+SHA256sum: 58456d1fd34bf18da2238f7c9ac332f5fb3eeb3ba36850fc4a9b337721b15111
 Size: 604
-Filename: enigma2-plugin-bootlogos-rossi2000-youvix-1080-dbg_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-youvix-1080-dbg_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-youvix-1080.bb
 Description: 1080 bootlogo by rossi2000 - Debugging files
 OE: enigma2-plugin-bootlogos-rossi2000-youvix-1080
@@ -2543,15 +2543,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-youvix-1080-dev
-Version: 6.5-r0
-Recommends: enigma2-plugin-bootlogos-rossi2000-youvix-1080 (= 6.5-r0), showiframe-dev
+Version: 6.6-r0
+Recommends: enigma2-plugin-bootlogos-rossi2000-youvix-1080 (= 6.6-r0), showiframe-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 9d7e74c9093554fb4a9defb85be489e7
-SHA256sum: 62981ffe3f874c79371d2f8d135b93465369ead7e85cb6cf5650ed64a80e5c17
+MD5Sum: c24c98954be21cf1a94373d79d39dc13
+SHA256sum: cfeeb2465eee16bee775ddc212e4843bcd37d2c93549e6f6876df6b04b2db0a5
 Size: 648
-Filename: enigma2-plugin-bootlogos-rossi2000-youvix-1080-dev_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-youvix-1080-dev_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-youvix-1080.bb
 Description: 1080 bootlogo by rossi2000 - Development files
 OE: enigma2-plugin-bootlogos-rossi2000-youvix-1080
@@ -2560,15 +2560,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-bootlogos-rossi2000-youvix-1080
-Version: 6.5-r0
+Version: 6.6-r0
 Depends: showiframe
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 1f8c4aa5d88c39d2f5c950d779b4f05c
-SHA256sum: fb7d58bcf7ff4e2e64ac505ad30252cf92ee75c081cf147f8633a87758ff2f5b
+MD5Sum: 2f4e89f29a5700714abf0142bea78f15
+SHA256sum: a88105de22a9284e07cef907805435dbbb5ef3d8fd3e1cc67cef3393e7d076a1
 Size: 58406
-Filename: enigma2-plugin-bootlogos-rossi2000-youvix-1080_6.5-r0_all.ipk
+Filename: enigma2-plugin-bootlogos-rossi2000-youvix-1080_6.6-r0_all.ipk
 Source: enigma2-plugin-bootlogos-rossi2000-youvix-1080.bb
 Description: 1080 bootlogo by rossi2000
 OE: enigma2-plugin-bootlogos-rossi2000-youvix-1080
@@ -5592,14 +5592,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-dbg
-Version: 1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4
+Version: 1.17-20240529-git120+cbf6c380+cbf6c389f1-r4
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e1664140ab4d937cb9656fc5d177f36b
-SHA256sum: 7d434a32d08d0be65bb8fe6d824f747db5e4778fc717b3b5f91660cf282dbdaf
-Size: 632
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4_all.ipk
+MD5Sum: b2ffe552c7574f71992211a2548b8e5d
+SHA256sum: e2ccd960ebd2064e8bde6b54d301af8f8790ed374d228f1e8e26463723830918
+Size: 634
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-dbg_1.17-20240529-git120+cbf6c380+cbf6c389f1-r4_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Debugging files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -5608,15 +5608,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-dev
-Version: 1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4
-Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4)
+Version: 1.17-20240529-git120+cbf6c380+cbf6c389f1-r4
+Recommends: enigma2-plugin-extensions-bouquetmakerxtream (= 1.17-20240529-git120+cbf6c380+cbf6c389f1-r4)
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: dc98c7788ea9a1cb462c843990f6b232
-SHA256sum: c82beaeed730bb7855796471a9b4725c0d55eddc0fcf44b9d071292465c53329
+MD5Sum: a7c890e7d5e2860fa04eef6757aa00af
+SHA256sum: a603ccc89a79e3aeed5c96b3edc28287e9daa595a1b3c8e76224c61fd589bbe3
 Size: 668
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-dev_1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4_all.ipk
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-dev_1.17-20240529-git120+cbf6c380+cbf6c389f1-r4_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Development files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -5625,14 +5625,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream-src
-Version: 1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4
+Version: 1.17-20240529-git120+cbf6c380+cbf6c389f1-r4
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: d454de1535b78edcdc865a1e6977c613
-SHA256sum: 785261067dd01f7e46c453769301fdf2b5ac84dda1ace6a917fdcb87705da900
-Size: 52326
-Filename: enigma2-plugin-extensions-bouquetmakerxtream-src_1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4_all.ipk
+MD5Sum: 0a59630dd29739b904c0b6a3d0683437
+SHA256sum: 2a79de7f2c6fdfff2f58801422bff8a5c685605b528f3a710d1f7be7406ee4cd
+Size: 52384
+Filename: enigma2-plugin-extensions-bouquetmakerxtream-src_1.17-20240529-git120+cbf6c380+cbf6c389f1-r4_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker - Source files
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -5641,14 +5641,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-bouquetmakerxtream
-Version: 1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4
+Version: 1.17-20240529-git120+cbf6c380+cbf6c389f1-r4
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9fec9eb503cddd622cc597c43a0997ee
-SHA256sum: 05d9df91ed13e144c826a2c6dbaf608bace297747cbd27400b31ca99b3a8d3b6
-Size: 1378524
-Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.16-20240401-git119+5d2b4b20+5d2b4b2a0a-r4_all.ipk
+MD5Sum: b47e2fb812715075458b6be0ac83a920
+SHA256sum: 70629073a72a407677c4e19f7bb7188eb2bd66cce90a3184da60f250ede4616b
+Size: 1378590
+Filename: enigma2-plugin-extensions-bouquetmakerxtream_1.17-20240529-git120+cbf6c380+cbf6c389f1-r4_all.ipk
 Source: enigma2-plugin-extensions-bouquetmakerxtream.bb
 Description: IPTV bouquet maker
 OE: enigma2-plugin-extensions-bouquetmakerxtream
@@ -5657,14 +5657,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-dbg
-Version: 1.25-20231110-git61+4f9927e0+4f9927e325-r0
+Version: 1.26-20240210-git62+be2ae2a0+be2ae2a327-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 2a747cf4ba1b24ccc6eeeb18bd20b417
-SHA256sum: 6a2fcf2ad62a71598cc45e2f436475d678676eaddd5de0cbb16171702b60415a
-Size: 634
-Filename: enigma2-plugin-extensions-e2piconizer-dbg_1.25-20231110-git61+4f9927e0+4f9927e325-r0_all.ipk
+MD5Sum: c0041f1f4e09c2e007c7054ebf39ffe2
+SHA256sum: 78bb038c93d27ec1b685f983afff3871c5fea00debcc0903245b629e50127a3f
+Size: 632
+Filename: enigma2-plugin-extensions-e2piconizer-dbg_1.26-20240210-git62+be2ae2a0+be2ae2a327-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Debugging files
 OE: enigma2-plugin-extensions-e2piconizer
@@ -5673,15 +5673,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-dev
-Version: 1.25-20231110-git61+4f9927e0+4f9927e325-r0
-Recommends: enigma2-plugin-extensions-e2piconizer (= 1.25-20231110-git61+4f9927e0+4f9927e325-r0)
+Version: 1.26-20240210-git62+be2ae2a0+be2ae2a327-r0
+Recommends: enigma2-plugin-extensions-e2piconizer (= 1.26-20240210-git62+be2ae2a0+be2ae2a327-r0)
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 7dbf32b9c8d056991011c2311cfdce91
-SHA256sum: be92ed43db76bbe3cdd58f163a9b2a18b5ea8c0711163c825c6c592bceeb4b61
-Size: 672
-Filename: enigma2-plugin-extensions-e2piconizer-dev_1.25-20231110-git61+4f9927e0+4f9927e325-r0_all.ipk
+MD5Sum: b8995f46ca81fde14d2dfb9b403688d8
+SHA256sum: 3ac383a001cbb9614728b73cd79e05139c78a2fe6ff5a5cb71465cf39d7f4352
+Size: 668
+Filename: enigma2-plugin-extensions-e2piconizer-dev_1.26-20240210-git62+be2ae2a0+be2ae2a327-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Development files
 OE: enigma2-plugin-extensions-e2piconizer
@@ -5690,14 +5690,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer-src
-Version: 1.25-20231110-git61+4f9927e0+4f9927e325-r0
+Version: 1.26-20240210-git62+be2ae2a0+be2ae2a327-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 99566daa31a2dbc5d6e4d44b8e724f13
-SHA256sum: 61ff0c373f1790f2e966d28c92058b2337f9131dbaff71d8748316e75ab65b0f
-Size: 15324
-Filename: enigma2-plugin-extensions-e2piconizer-src_1.25-20231110-git61+4f9927e0+4f9927e325-r0_all.ipk
+MD5Sum: 10357278890c1e453fc44eb12d95049d
+SHA256sum: 4335b9008ff55bd72a9db56363558c2209141544460892e35c5685b147280fc4
+Size: 15322
+Filename: enigma2-plugin-extensions-e2piconizer-src_1.26-20240210-git62+be2ae2a0+be2ae2a327-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0 - Source files
 OE: enigma2-plugin-extensions-e2piconizer
@@ -5706,14 +5706,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer
-Version: 1.25-20231110-git61+4f9927e0+4f9927e325-r0
+Version: 1.26-20240210-git62+be2ae2a0+be2ae2a327-r0
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: cbc09c719770e04a0aac7593e8caacc1
-SHA256sum: d559e07b08b52504301bb38b3fa2f37fc6f67676cdcbf1cca18ce551583e530c
-Size: 1825152
-Filename: enigma2-plugin-extensions-e2piconizer_1.25-20231110-git61+4f9927e0+4f9927e325-r0_all.ipk
+MD5Sum: 0bc06afecfad7602b95ab15eac4ef921
+SHA256sum: 98e5a03fe38e2d4040396e674cc9108283c17b7c320f0942cb48f53d871f648d
+Size: 1825110
+Filename: enigma2-plugin-extensions-e2piconizer_1.26-20240210-git62+be2ae2a0+be2ae2a327-r0_all.ipk
 Source: enigma2-plugin-extensions-e2piconizer.bb
 Description: enigma2-plugin-extensions-e2piconizer version git-r0
 OE: enigma2-plugin-extensions-e2piconizer
@@ -5852,14 +5852,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream-dbg
-Version: 6.36-20240210-git164+8e35d360+8e35d36b07-r3
+Version: 6.37-20240529-git167+e62c3760+e62c376774-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 72edbd61e7bfd813b4edc0241607d08f
-SHA256sum: cb2ffa225cf3783ed938842651008fb563e472f3f73248339cb47a05ffa6451f
+MD5Sum: 2d20aa26a2e01d62bb6787e5a7b1a990
+SHA256sum: 0b32944501c9923b06ac5ccc92a8feec6c7eefd88c60504821e10af976560c30
 Size: 652
-Filename: enigma2-plugin-extensions-jedimakerxtream-dbg_6.36-20240210-git164+8e35d360+8e35d36b07-r3_all.ipk
+Filename: enigma2-plugin-extensions-jedimakerxtream-dbg_6.37-20240529-git167+e62c3760+e62c376774-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3 - Debugging files
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -5868,15 +5868,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream-dev
-Version: 6.36-20240210-git164+8e35d360+8e35d36b07-r3
-Recommends: enigma2-plugin-extensions-jedimakerxtream (= 6.36-20240210-git164+8e35d360+8e35d36b07-r3), python3-backports-lzma-dev
+Version: 6.37-20240529-git167+e62c3760+e62c376774-r3
+Recommends: enigma2-plugin-extensions-jedimakerxtream (= 6.37-20240529-git167+e62c3760+e62c376774-r3), python3-backports-lzma-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 49a344f8221514449575da02b8392985
-SHA256sum: 4292c5efb649fb169b56b0858fe01914d5b3e3a130b1475984338f57d9241f77
+MD5Sum: bfb2b6d1d214be66972a474d42b46d63
+SHA256sum: 948aab46793215d72bc9edc1bcdebbe410c235a873cadcbc60901fa990e93454
 Size: 710
-Filename: enigma2-plugin-extensions-jedimakerxtream-dev_6.36-20240210-git164+8e35d360+8e35d36b07-r3_all.ipk
+Filename: enigma2-plugin-extensions-jedimakerxtream-dev_6.37-20240529-git167+e62c3760+e62c376774-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3 - Development files
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -5885,14 +5885,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream-src
-Version: 6.36-20240210-git164+8e35d360+8e35d36b07-r3
+Version: 6.37-20240529-git167+e62c3760+e62c376774-r3
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 5435c3aa469c124426cdcf4310aef4a2
-SHA256sum: 80c5fbed6be80d307023c39c11f37397b4fcbcb81e2b7c3bfb6fd2222ced869e
-Size: 39934
-Filename: enigma2-plugin-extensions-jedimakerxtream-src_6.36-20240210-git164+8e35d360+8e35d36b07-r3_all.ipk
+MD5Sum: aa0e9aa6f39b62df59826418e2f6c39a
+SHA256sum: 4be85fd759624c71fa51137facf1d82acceb7b1ec072a7bb542d2331ea8231a3
+Size: 39946
+Filename: enigma2-plugin-extensions-jedimakerxtream-src_6.37-20240529-git167+e62c3760+e62c376774-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3 - Source files
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -5901,14 +5901,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-jedimakerxtream
-Version: 6.36-20240210-git164+8e35d360+8e35d36b07-r3
+Version: 6.37-20240529-git167+e62c3760+e62c376774-r3
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e8ab1fffc9e3572f9e72a95dc1a3cdaf
-SHA256sum: 5fe7a48323e84ef612e1f35accbfd599901feb839dbcf2e44923ef1d138fc6f3
-Size: 2992072
-Filename: enigma2-plugin-extensions-jedimakerxtream_6.36-20240210-git164+8e35d360+8e35d36b07-r3_all.ipk
+MD5Sum: 74cd97e585027715aa5068613214fb97
+SHA256sum: f9570c411ec4e45326d75308b3d893bd8b3b49809089b85b2089c42fc2ba3514
+Size: 2992422
+Filename: enigma2-plugin-extensions-jedimakerxtream_6.37-20240529-git167+e62c3760+e62c376774-r3_all.ipk
 Source: enigma2-plugin-extensions-jedimakerxtream.bb
 Description: enigma2-plugin-extensions-jedimakerxtream version git-r3
 OE: enigma2-plugin-extensions-jedimakerxtream
@@ -5982,14 +5982,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-piconsmissing-dbg
-Version: 1.0+git6+03760b80+03760b884e-r0
+Version: 1.0+git7+6c692e80+6c692e85fd-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: b8cf282a6b27d5ae0eba9f1972c7bad7
-SHA256sum: d93f893ce7a6efc9fef341bbd1622d7afa3f70e54efbc0cda3c703b0747e8096
+MD5Sum: 70887a280c997e86c4ed319cbbb68710
+SHA256sum: b511328a189977b691e6a6c8fb280ddc2d236c79b1e5343ab89596168009e205
 Size: 622
-Filename: enigma2-plugin-extensions-piconsmissing-dbg_1.0+git6+03760b80+03760b884e-r0_all.ipk
+Filename: enigma2-plugin-extensions-piconsmissing-dbg_1.0+git7+6c692e80+6c692e85fd-r0_all.ipk
 Source: enigma2-plugin-extensions-piconsmissing.bb
 Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-extensions-piconsmissing
@@ -5998,15 +5998,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-piconsmissing-dev
-Version: 1.0+git6+03760b80+03760b884e-r0
-Recommends: enigma2-plugin-extensions-piconsmissing (= 1.0+git6+03760b80+03760b884e-r0)
+Version: 1.0+git7+6c692e80+6c692e85fd-r0
+Recommends: enigma2-plugin-extensions-piconsmissing (= 1.0+git7+6c692e80+6c692e85fd-r0)
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: d391ed0e0b3131e552f68a61d4cfd0ed
-SHA256sum: 460630444acf04fab289af4cbbf4e7a6e91603bc2d2b1509d040c3d7d2d02e57
+MD5Sum: 0d3f0eabdb3636af23d436be94d39d57
+SHA256sum: 79e9eda2030a5634391cffcef19a3d57a1dee2883c7cb0c5e04be7d806d9473d
 Size: 658
-Filename: enigma2-plugin-extensions-piconsmissing-dev_1.0+git6+03760b80+03760b884e-r0_all.ipk
+Filename: enigma2-plugin-extensions-piconsmissing-dev_1.0+git7+6c692e80+6c692e85fd-r0_all.ipk
 Source: enigma2-plugin-extensions-piconsmissing.bb
 Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0 - Development files
 OE: enigma2-plugin-extensions-piconsmissing
@@ -6015,14 +6015,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-piconsmissing
-Version: 1.0+git6+03760b80+03760b884e-r0
+Version: 1.0+git7+6c692e80+6c692e85fd-r0
 Section: base
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 7ec1d60e26ccc385f3113eddafad115c
-SHA256sum: b2fdb2d1d24d1e002b016368f660ddb11e7aa7ea73643fcdff905f2ee0107731
-Size: 12036
-Filename: enigma2-plugin-extensions-piconsmissing_1.0+git6+03760b80+03760b884e-r0_all.ipk
+MD5Sum: ca54b52420d79f0e6eac2d1191bdfd45
+SHA256sum: 4fc7ddff22e9dd93cad84ed5cf36d51642d44baa8c4e0bf4619d8143d654bcd1
+Size: 13850
+Filename: enigma2-plugin-extensions-piconsmissing_1.0+git7+6c692e80+6c692e85fd-r0_all.ipk
 Source: enigma2-plugin-extensions-piconsmissing.bb
 Description: enigma2-plugin-extensions-piconsmissing version 1.0+git-r0
 OE: enigma2-plugin-extensions-piconsmissing
@@ -6096,15 +6096,81 @@ HomePage: http://www.serienserver.de
 License: GPL-2.0-or-later
 Priority: optional
 
-Package: enigma2-plugin-extensions-xstreamity-dbg
-Version: 4.40-20240410-git490+323f62d0+323f62d8ba-r1
+Package: enigma2-plugin-extensions-xklass-dbg
+Version: 1.04-20240715-git11+c6f45af0+c6f45af0b8-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9c056e2be3138631ea828cea05712578
-SHA256sum: 0fbf4ac82d650e29af6b9249ab1749fc4aeaa68cfd537abe101f4594020f71d5
+MD5Sum: 0b112549b80eecb54b761972d8322ac2
+SHA256sum: 2e07e09da802cf9d39faa4235a7b055cc751173c31a7160231ef070182375625
+Size: 642
+Filename: enigma2-plugin-extensions-xklass-dbg_1.04-20240715-git11+c6f45af0+c6f45af0b8-r1_all.ipk
+Source: enigma2-plugin-extensions-xklass.bb
+Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Debugging files
+OE: enigma2-plugin-extensions-xklass
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xklass-dev
+Version: 1.04-20240715-git11+c6f45af0+c6f45af0b8-r1
+Recommends: enigma2-plugin-extensions-xklass (= 1.04-20240715-git11+c6f45af0+c6f45af0b8-r1), python3-pillow-dev, python3-requests-dev, wget-dev
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: e7af1ae59a00a3e8d1bcf3a4982b85f3
+SHA256sum: 4edd405c194a93fc15d83994d92d3c9d2e88aabb66487ca22a924629936aa6d2
+Size: 706
+Filename: enigma2-plugin-extensions-xklass-dev_1.04-20240715-git11+c6f45af0+c6f45af0b8-r1_all.ipk
+Source: enigma2-plugin-extensions-xklass.bb
+Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Development files
+OE: enigma2-plugin-extensions-xklass
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xklass-src
+Version: 1.04-20240715-git11+c6f45af0+c6f45af0b8-r1
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 4cf866e3132613b4e9566bb5b76aa08c
+SHA256sum: 86b14da563180e560eb54444fa838a6cf50dec2bb6534b773b1624cac0259828
+Size: 91842
+Filename: enigma2-plugin-extensions-xklass-src_1.04-20240715-git11+c6f45af0+c6f45af0b8-r1_all.ipk
+Source: enigma2-plugin-extensions-xklass.bb
+Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Source files
+OE: enigma2-plugin-extensions-xklass
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xklass
+Version: 1.04-20240715-git11+c6f45af0+c6f45af0b8-r1
+Depends: python3-pillow, python3-requests, wget
+Section: base
+Architecture: all
+Maintainer: kiddac
+MD5Sum: b21c92333a44f509461f496e40445b8f
+SHA256sum: ca99c3110d1f03e00333659267494c8b0af44bb9f02192f3633e20b4aea37844
+Size: 5698790
+Filename: enigma2-plugin-extensions-xklass_1.04-20240715-git11+c6f45af0+c6f45af0b8-r1_all.ipk
+Source: enigma2-plugin-extensions-xklass.bb
+Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists.
+OE: enigma2-plugin-extensions-xklass
+HomePage: https://www.linuxsat-support.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-extensions-xstreamity-dbg
+Version: 4.53-20240609-git506+dc66c540+dc66c54f5a-r1
+Section: devel
+Architecture: all
+Maintainer: kiddac
+MD5Sum: 4ab1f9949414215f67f823970f5673a6
+SHA256sum: 8ff769473054ec16b2594e3491393b742ed045f4ebf510c24bf023d5e7991acb
 Size: 636
-Filename: enigma2-plugin-extensions-xstreamity-dbg_4.40-20240410-git490+323f62d0+323f62d8ba-r1_all.ipk
+Filename: enigma2-plugin-extensions-xstreamity-dbg_4.53-20240609-git506+dc66c540+dc66c54f5a-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Debugging files
 OE: enigma2-plugin-extensions-xstreamity
@@ -6113,15 +6179,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dev
-Version: 4.40-20240410-git490+323f62d0+323f62d8ba-r1
-Recommends: enigma2-plugin-extensions-xstreamity (= 4.40-20240410-git490+323f62d0+323f62d8ba-r1), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
+Version: 4.53-20240609-git506+dc66c540+dc66c54f5a-r1
+Recommends: enigma2-plugin-extensions-xstreamity (= 4.53-20240609-git506+dc66c540+dc66c54f5a-r1), python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e02b73309183e6334495fb6207852795
-SHA256sum: d545e8fa0d6da332f2fc59a47901f608fc2301496e0e0458fc612ec66e80cb4e
+MD5Sum: ef2158d1cd0fb59b099984da2a1b8c7c
+SHA256sum: 5d42ba1ec02ccba2a08bcd77b8af613d20c388f4cca4ec9abeb9ad0fb1759f90
 Size: 706
-Filename: enigma2-plugin-extensions-xstreamity-dev_4.40-20240410-git490+323f62d0+323f62d8ba-r1_all.ipk
+Filename: enigma2-plugin-extensions-xstreamity-dev_4.53-20240609-git506+dc66c540+dc66c54f5a-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Development files
 OE: enigma2-plugin-extensions-xstreamity
@@ -6130,14 +6196,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-src
-Version: 4.40-20240410-git490+323f62d0+323f62d8ba-r1
+Version: 4.53-20240609-git506+dc66c540+dc66c54f5a-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: d502151290883c88aeb3783ad658a797
-SHA256sum: 06d854fda90b2197bc339fa7861b53be61b278f104bd2dc0b16ff13e5ab17582
-Size: 82424
-Filename: enigma2-plugin-extensions-xstreamity-src_4.40-20240410-git490+323f62d0+323f62d8ba-r1_all.ipk
+MD5Sum: 457275348ecc1c6b05fb4da20d17894d
+SHA256sum: 1ef3ad7b72b02b73a20debc240819461c4997fa0f71c882acbd5ccf881762e2c
+Size: 84276
+Filename: enigma2-plugin-extensions-xstreamity-src_4.53-20240609-git506+dc66c540+dc66c54f5a-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Source files
 OE: enigma2-plugin-extensions-xstreamity
@@ -6146,15 +6212,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: 4.40-20240410-git490+323f62d0+323f62d8ba-r1
+Version: 4.53-20240609-git506+dc66c540+dc66c54f5a-r1
 Depends: python3-multiprocessing, python3-pillow, python3-requests
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: afb66e7d723acac717f16da1e8be1c3a
-SHA256sum: ecec4fe3dff043762f0172e2ad43aa9073e21a3346cfa99c623d38c5e2385fb7
-Size: 4523232
-Filename: enigma2-plugin-extensions-xstreamity_4.40-20240410-git490+323f62d0+323f62d8ba-r1_all.ipk
+MD5Sum: ca7480ce1f4858e8d9bd3d2867ce30af
+SHA256sum: db48a5901d815c7022c452561b7aa9e6be47d8afdd20b4418e1824651c561875
+Size: 4547622
+Filename: enigma2-plugin-extensions-xstreamity_4.53-20240609-git506+dc66c540+dc66c54f5a-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC
 OE: enigma2-plugin-extensions-xstreamity
@@ -6163,14 +6229,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-picons-tv-australia
-Version: 3.0+git447+111d59c0+111d59c781-r1
+Version: 3.0+git466+8d9768c0+8d9768c134-r1
 Section: base
 Architecture: all
 Maintainer: Beyonwiz
-MD5Sum: 83820e480821331c5b6b6493549f5cda
-SHA256sum: ca44fe6e14c8fc1aba66bbb184a0abca2509df1830c5bf25e40da969aef3567b
-Size: 542920
-Filename: enigma2-plugin-picons-tv-australia_3.0+git447+111d59c0+111d59c781-r1_all.ipk
+MD5Sum: 9aac85b8b8755626eed5ad092c611e4a
+SHA256sum: 3ae2678886249857cedb45fee71075c349bc5af100d4756d96da76243cde4df9
+Size: 574110
+Filename: enigma2-plugin-picons-tv-australia_3.0+git466+8d9768c0+8d9768c134-r1_all.ipk
 Source: enigma2-plugin-picons-tv-australia.bb
 Description: Australia Picons
 OE: enigma2-plugin-picons-tv-australia
@@ -6179,14 +6245,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skinpacks-dreamplex-plex-experience
-Version: 6.5+git20+90c01a10+90c01a1ef7-r1
+Version: 6.6+git20+90c01a10+90c01a1ef7-r1
 Section: base
 Architecture: all
 Maintainer: rossi2000 and stein17
-MD5Sum: 27ba34d6cb2a212cc729736d8ed6ffa0
-SHA256sum: 703c376baa28254a3707f3e94944b8a52e2543e9f265034061649d4aae566322
-Size: 10489962
-Filename: enigma2-plugin-skinpacks-dreamplex-plex-experience_6.5+git20+90c01a10+90c01a1ef7-r1_all.ipk
+MD5Sum: d3002974a5cdb704725a4fa5d8e1ddc0
+SHA256sum: 84dfb3fcdc018209824d2ef268959c3bea4c8ea11e4e9cea743e4d9d11dc4901
+Size: 10489960
+Filename: enigma2-plugin-skinpacks-dreamplex-plex-experience_6.6+git20+90c01a10+90c01a1ef7-r1_all.ipk
 Source: enigma2-plugin-skinpacks-dreamplex.bb
 Description: Dreamplex skinpacks
 OE: enigma2-plugin-skinpacks-dreamplex
@@ -6195,14 +6261,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skinpacks-dreamplex-youplex-blue
-Version: 6.5+git20+90c01a10+90c01a1ef7-r1
+Version: 6.6+git20+90c01a10+90c01a1ef7-r1
 Section: base
 Architecture: all
 Maintainer: rossi2000 and stein17
-MD5Sum: 73a25605c8fc71ddc328c763c61556fc
-SHA256sum: a60196afcc1a2e1d8109248642c147b562542c17a22b46c759e4fbfa1b71c867
+MD5Sum: 6eecf5091ff5d80dcd231ad06bfe3354
+SHA256sum: 2eaafa4a8fcad949b841cfe3ba7db8d2ea9ff235b66086b743231464928fb4e3
 Size: 459374
-Filename: enigma2-plugin-skinpacks-dreamplex-youplex-blue_6.5+git20+90c01a10+90c01a1ef7-r1_all.ipk
+Filename: enigma2-plugin-skinpacks-dreamplex-youplex-blue_6.6+git20+90c01a10+90c01a1ef7-r1_all.ipk
 Source: enigma2-plugin-skinpacks-dreamplex.bb
 Description: Dreamplex skinpacks
 OE: enigma2-plugin-skinpacks-dreamplex
@@ -6211,14 +6277,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skinpacks-dreamplex-youplex-green
-Version: 6.5+git20+90c01a10+90c01a1ef7-r1
+Version: 6.6+git20+90c01a10+90c01a1ef7-r1
 Section: base
 Architecture: all
 Maintainer: rossi2000 and stein17
-MD5Sum: 9e3bd039231ccd3e3dc7321ed83633bb
-SHA256sum: 92f3dd0cb4c17cd6d215bb0aedfe972cc3d1f08752b4671be2bd66721273872a
+MD5Sum: 7e05cbfc1a58a83bdc4666fcccdd6421
+SHA256sum: 412bc410485741cc4e859311d780175e62b04bb41c2433a5f8721efc82d251a6
 Size: 459666
-Filename: enigma2-plugin-skinpacks-dreamplex-youplex-green_6.5+git20+90c01a10+90c01a1ef7-r1_all.ipk
+Filename: enigma2-plugin-skinpacks-dreamplex-youplex-green_6.6+git20+90c01a10+90c01a1ef7-r1_all.ipk
 Source: enigma2-plugin-skinpacks-dreamplex.bb
 Description: Dreamplex skinpacks
 OE: enigma2-plugin-skinpacks-dreamplex
@@ -6227,14 +6293,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skinpacks-dreamplex-youplex-purple
-Version: 6.5+git20+90c01a10+90c01a1ef7-r1
+Version: 6.6+git20+90c01a10+90c01a1ef7-r1
 Section: base
 Architecture: all
 Maintainer: rossi2000 and stein17
-MD5Sum: 23793e327f8f86554d09526a03e29873
-SHA256sum: aacaef03130d3a6a2db89a354738dc5f569c39c44c0d2b0fdf5612bd9d4acc78
+MD5Sum: 2d63534a90f209de2dd6012dfb88ad9d
+SHA256sum: d41e40dc9fcedf607444e4cfd609ea017a08c1c758a6ea56e43b2eda95e6e101
 Size: 460164
-Filename: enigma2-plugin-skinpacks-dreamplex-youplex-purple_6.5+git20+90c01a10+90c01a1ef7-r1_all.ipk
+Filename: enigma2-plugin-skinpacks-dreamplex-youplex-purple_6.6+git20+90c01a10+90c01a1ef7-r1_all.ipk
 Source: enigma2-plugin-skinpacks-dreamplex.bb
 Description: Dreamplex skinpacks
 OE: enigma2-plugin-skinpacks-dreamplex
@@ -6243,14 +6309,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skinpacks-dreamplex-youplex-red
-Version: 6.5+git20+90c01a10+90c01a1ef7-r1
+Version: 6.6+git20+90c01a10+90c01a1ef7-r1
 Section: base
 Architecture: all
 Maintainer: rossi2000 and stein17
-MD5Sum: 4a2caaa1cc21dd7bc7d399c641951a82
-SHA256sum: be409c35f8e25b3351ad2eccbdc35acb5ca7b2cb64c98932f943e10d62e6cecf
+MD5Sum: 861305fc0bf8dcb29871213f1e3623df
+SHA256sum: 4528d6e2403bf9adafa98c17854b664906f6dab43a012bb1af898500b137c7bb
 Size: 458830
-Filename: enigma2-plugin-skinpacks-dreamplex-youplex-red_6.5+git20+90c01a10+90c01a1ef7-r1_all.ipk
+Filename: enigma2-plugin-skinpacks-dreamplex-youplex-red_6.6+git20+90c01a10+90c01a1ef7-r1_all.ipk
 Source: enigma2-plugin-skinpacks-dreamplex.bb
 Description: Dreamplex skinpacks
 OE: enigma2-plugin-skinpacks-dreamplex
@@ -6259,14 +6325,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-skins-e2-darkos-dbg
-Version: 1.0+git220+8b4dfd00+8b4dfd0479-r0
+Version: 1.0+git233+cae0d3d0+cae0d3d8b0-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 1537d007b0c843502c7c0b5396a8adda
-SHA256sum: 0b11fccb020ca55bc3dc34e5c4a18a771ef631c21b4b099670369c00e7b1a961
+MD5Sum: 33a7c03cd785a98fed78ac42e48e741e
+SHA256sum: 2b47fd501656cc07788f221d960728b7d8965d7aa99c9a1006d5514b342375df
 Size: 630
-Filename: enigma2-plugin-skins-e2-darkos-dbg_1.0+git220+8b4dfd00+8b4dfd0479-r0_all.ipk
+Filename: enigma2-plugin-skins-e2-darkos-dbg_1.0+git233+cae0d3d0+cae0d3d8b0-r0_all.ipk
 Source: enigma2-plugin-skins-e2-darkos.bb
 Description: enigma2-plugin-skins-e2-darkos version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-skins-e2-darkos
@@ -6275,15 +6341,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2-darkos-dev
-Version: 1.0+git220+8b4dfd00+8b4dfd0479-r0
-Recommends: enigma2-plugin-skins-e2-darkos (= 1.0+git220+8b4dfd00+8b4dfd0479-r0)
+Version: 1.0+git233+cae0d3d0+cae0d3d8b0-r0
+Recommends: enigma2-plugin-skins-e2-darkos (= 1.0+git233+cae0d3d0+cae0d3d8b0-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: a436120e5c3d6709ba2c19de34d39bfa
-SHA256sum: 3b6bd9d4369bd716c721145bd6dfdf2bd33dcdd23b23c299d1555b42725732a4
-Size: 668
-Filename: enigma2-plugin-skins-e2-darkos-dev_1.0+git220+8b4dfd00+8b4dfd0479-r0_all.ipk
+MD5Sum: 69f8087a43979d1e4a0b3d46dd750922
+SHA256sum: 630a4860fafc353a2d79fae2d2c106252dc387b75df1bf9beddb7f66e969ba53
+Size: 666
+Filename: enigma2-plugin-skins-e2-darkos-dev_1.0+git233+cae0d3d0+cae0d3d8b0-r0_all.ipk
 Source: enigma2-plugin-skins-e2-darkos.bb
 Description: enigma2-plugin-skins-e2-darkos version 1.0+git-r0 - Development files
 OE: enigma2-plugin-skins-e2-darkos
@@ -6292,15 +6358,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-e2-darkos
-Version: 1.0+git220+8b4dfd00+8b4dfd0479-r0
+Version: 1.0+git233+cae0d3d0+cae0d3d8b0-r0
 Recommends: enigma2-boxlogos
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 362b3efb7dd46fbb39b25a5f7f221f76
-SHA256sum: ea49ac174e0de4ffd9269219b5874895c2bb61fa894ac90a32d5ecb187596b10
-Size: 3056214
-Filename: enigma2-plugin-skins-e2-darkos_1.0+git220+8b4dfd00+8b4dfd0479-r0_all.ipk
+MD5Sum: c8afd3943bc94297bcc62e0803864277
+SHA256sum: 437815120738f460974976ad1656d40ae06a9ffe8bed5de87e6c28aa17e6de48
+Size: 3119022
+Filename: enigma2-plugin-skins-e2-darkos_1.0+git233+cae0d3d0+cae0d3d8b0-r0_all.ipk
 Source: enigma2-plugin-skins-e2-darkos.bb
 Description: enigma2-plugin-skins-e2-darkos version 1.0+git-r0
 OE: enigma2-plugin-skins-e2-darkos
@@ -6472,14 +6538,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dbg
-Version: 1.0+git13+b87aee90+b87aee975d-r0
+Version: 1.0+git14+11ee63b0+11ee63be83-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: d08419dcc18cf6f5ec391d09d5bef3d9
-SHA256sum: 845da3b6685b5f017b6db859c9e63da0b03d525fec450b1bd67a9dad7a663990
-Size: 622
-Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git13+b87aee90+b87aee975d-r0_all.ipk
+MD5Sum: 2e40c66ebf27e0411acfe7d1efb4ae37
+SHA256sum: fc2dc52f143e0151d7ad27b73bb8bb92b28be644b223ff3b9a5de6ca09d6ace0
+Size: 620
+Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git14+11ee63b0+11ee63be83-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -6488,15 +6554,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dev
-Version: 1.0+git13+b87aee90+b87aee975d-r0
-Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git13+b87aee90+b87aee975d-r0)
+Version: 1.0+git14+11ee63b0+11ee63be83-r0
+Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git14+11ee63b0+11ee63be83-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: bba82d455030ca46d12a2a0150344a1e
-SHA256sum: fb3aa1b2bf1fbe67f3e8faf34632adfdda47ff076786601711bd7e9a315b277f
+MD5Sum: 82fcbbb030532a48702e2d1ec27be18c
+SHA256sum: 44eae106f42adb1ae1ed0b650ed6396b9dba04b02aa7972a4d3d94f2d2064e55
 Size: 656
-Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git13+b87aee90+b87aee975d-r0_all.ipk
+Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git14+11ee63b0+11ee63be83-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Development files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -6505,14 +6571,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-src
-Version: 1.0+git13+b87aee90+b87aee975d-r0
+Version: 1.0+git14+11ee63b0+11ee63be83-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 158161120f1f76230a8ad86424a5d631
-SHA256sum: 28fc1b3f0d8a2922aa95da9da5c1a5ed64e44e08f2eef9eb25a590c8b1790b14
-Size: 5688
-Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git13+b87aee90+b87aee975d-r0_all.ipk
+MD5Sum: ff96a6ac87603fad0798995fcb966d92
+SHA256sum: c9795e9a9b6ac879c87637a6d1e22fdd4283debf104442426adbc34b18d0e05e
+Size: 5808
+Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git14+11ee63b0+11ee63be83-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Source files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -6521,14 +6587,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv
-Version: 1.0+git13+b87aee90+b87aee975d-r0
+Version: 1.0+git14+11ee63b0+11ee63be83-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: ccfd3cc7b0561dd528f293965b47e292
-SHA256sum: aea54458125957db9eb9d445be51a5c47bb1df4e310ec0cfdaeae5b09c9cf10d
-Size: 12528
-Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git13+b87aee90+b87aee975d-r0_all.ipk
+MD5Sum: 799f2a78a835936a8e210963552773d5
+SHA256sum: 1c1d9bd95334d12b1002989861324efae0f0937fa66d9a456e17e2f397a8d534
+Size: 12710
+Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git14+11ee63b0+11ee63be83-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -7684,9 +7750,9 @@ Version: 0.4-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: f3ac2c52bd2277c5303d3c37380ff8ab
-SHA256sum: 8c8cb05d305634d1f4d1269498a25b507f9f69ecf7c8cc00db47b245402166cd
-Size: 584
+MD5Sum: da7f5796f028cdf16d3b55947de8153d
+SHA256sum: 7f0bd119b43079189d9f2be36f423115fafaf5136f3dfbf8681a7011f7210250
+Size: 580
 Filename: livestreamersrv-dbg_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Debugging files
@@ -7701,9 +7767,9 @@ Recommends: livestreamersrv (= 0.4-r0), python3-core-dev, streamlink-dev
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: 6e224ccb6c8927e6f6c6c8a7424d11a0
-SHA256sum: 4972514026979054b587fa53ad63b630bfc4666a4ddd7c8fe35349eb66b9f3be
-Size: 640
+MD5Sum: f7d534f773ccb74c99832616ce831b94
+SHA256sum: cecffeb069c07dfed194b4435ea7aa89af23dc673e232946a6d8c9c3d006377d
+Size: 636
 Filename: livestreamersrv-dev_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Development files
@@ -7718,9 +7784,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: bde081865176baf3deeb50584bcf30f1
-SHA256sum: 752f57e303ccd2b30cd30802beed24493842a8ac5de2910eca30a135ea1d042a
-Size: 77080
+MD5Sum: 2ffdceecf2983e05b834ce7bc356be50
+SHA256sum: 74824857e9eba447a1fd61c5f2d13de1d50e9c68faa82f77f54b0c28a1231bc5
+Size: 77076
 Filename: livestreamersrv_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0
@@ -7877,14 +7943,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: ntpd-sync-dbg
-Version: 6.5-r1
+Version: 6.6-r1
 Section: devel
 Architecture: all
 Maintainer: openvix team
-MD5Sum: ffee81c1f367e7132ed350cc42558945
-SHA256sum: c8269225fdd5cebeb09a5f5c14bad3f9929bff38a455c6486bbb27a37eb62f7e
+MD5Sum: e9715c4ca8f7ec1be95bd94050920928
+SHA256sum: 4bae182ed4d1358ec6ab938b51bf54d066ea7c9d1a11dea2a01ec12c5f76a4b5
 Size: 590
-Filename: ntpd-sync-dbg_6.5-r1_all.ipk
+Filename: ntpd-sync-dbg_6.6-r1_all.ipk
 Source: ntpd-sync.bb
 Description: Sync with NTP on network up - Debugging files
 OE: ntpd-sync
@@ -7893,15 +7959,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: ntpd-sync-dev
-Version: 6.5-r1
-Recommends: ntpd-sync (= 6.5-r1)
+Version: 6.6-r1
+Recommends: ntpd-sync (= 6.6-r1)
 Section: devel
 Architecture: all
 Maintainer: openvix team
-MD5Sum: 54610027db0e4faffa2552f646e6919f
-SHA256sum: cd48cfa46fc5cb2d27359ec277e91d94c4ceec19b52f1e0fc40b8b4c7765ee45
-Size: 624
-Filename: ntpd-sync-dev_6.5-r1_all.ipk
+MD5Sum: 9f8ecfe10ce738befd8a0f8f765b4bbb
+SHA256sum: f55b5324616555dd09d7ebb4b01a2fe3ac0be035bfeec6c56ffc6da5dff3c58b
+Size: 622
+Filename: ntpd-sync-dev_6.6-r1_all.ipk
 Source: ntpd-sync.bb
 Description: Sync with NTP on network up - Development files
 OE: ntpd-sync
@@ -7910,14 +7976,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: ntpd-sync
-Version: 6.5-r1
+Version: 6.6-r1
 Section: base
 Architecture: all
 Maintainer: openvix team
-MD5Sum: 6ba0f9074b6c79d885f18fbe0bfbfff4
-SHA256sum: 7557de92683271e36a557637a3427ec07bcff72634ea18265334deac1776f748
+MD5Sum: c0fcfe2bd16bbe1077a2d7c7979f3b6a
+SHA256sum: b71fc3298296e0562fa5569698325802c3388b446299aea1a5f757443fe2cccc
 Size: 2134
-Filename: ntpd-sync_6.5-r1_all.ipk
+Filename: ntpd-sync_6.6-r1_all.ipk
 Source: ntpd-sync.bb
 Description: Sync with NTP on network up
 OE: ntpd-sync
@@ -7926,15 +7992,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: oe-alliance-skins-dbg
-Version: 6.5-r10
+Version: 6.6-r10
 Recommends: enigma2-plugin-skins-kiddac-1080-onyx-dbg, enigma2-plugin-skins-kiddac-1080-slyk-q-dbg, enigma2-plugin-skins-kiddac-1080-slyk-r19-dbg, enigma2-plugin-skins-pli-hd-fullnight-dbg
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: bbd8bc3e5482bcbe4d1ad82441fbf02a
-SHA256sum: 76faed45d90e76c659cc487ba930c43ab98231cf1c8b46306ded1f9be4b354e0
+MD5Sum: 9626368392ce186f42b9a1b8f55551e7
+SHA256sum: 2609b333432575501292ae30b586c3c8d4eafcc1c067e5c79274634f03753951
 Size: 648
-Filename: oe-alliance-skins-dbg_6.5-r10_all.ipk
+Filename: oe-alliance-skins-dbg_6.6-r10_all.ipk
 Source: oe-alliance-skins.bb
 Description: Manage skins for OE-Alliance feeds. - Debugging files
 OE: oe-alliance-skins
@@ -7943,15 +8009,15 @@ License: MIT
 Priority: optional
 
 Package: oe-alliance-skins-dev
-Version: 6.5-r10
-Recommends: enigma2-dev, enigma2-plugin-skins-kiddac-1080-onyx-dev, enigma2-plugin-skins-kiddac-1080-slyk-q-dev, enigma2-plugin-skins-kiddac-1080-slyk-r19-dev, enigma2-plugin-skins-pli-hd-fullnight-dev, oe-alliance-skins (= 6.5-r10)
+Version: 6.6-r10
+Recommends: enigma2-dev, enigma2-plugin-skins-kiddac-1080-onyx-dev, enigma2-plugin-skins-kiddac-1080-slyk-q-dev, enigma2-plugin-skins-kiddac-1080-slyk-r19-dev, enigma2-plugin-skins-pli-hd-fullnight-dev, oe-alliance-skins (= 6.6-r10)
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 230709425caaacc14f460dd646ddf460
-SHA256sum: 7109e021d3b8f61d682b18edc9f84bac56bcad33c7951196ca42495177ccabce
-Size: 678
-Filename: oe-alliance-skins-dev_6.5-r10_all.ipk
+MD5Sum: 5fc22b12b5b5f531284e5848d9e665c2
+SHA256sum: 5901fd4a9ab791c8c6ea9b773fd35391ed56ee5117f3c1c07160f7f1baab7d90
+Size: 676
+Filename: oe-alliance-skins-dev_6.6-r10_all.ipk
 Source: oe-alliance-skins.bb
 Description: Manage skins for OE-Alliance feeds. - Development files
 OE: oe-alliance-skins
@@ -7960,15 +8026,15 @@ License: MIT
 Priority: optional
 
 Package: oe-alliance-skins
-Version: 6.5-r10
+Version: 6.6-r10
 Depends: enigma2-plugin-skins-kiddac-1080-onyx, enigma2-plugin-skins-kiddac-1080-slyk-q, enigma2-plugin-skins-kiddac-1080-slyk-r19, enigma2-plugin-skins-pli-hd-fullnight
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 806a9adc198b7922a78f3b9c72e72887
-SHA256sum: 40525b71258b0b2ee5e6a6de32b1030bab4aa6e063696fa36cfe5c892bcd09aa
+MD5Sum: 454c879f33ed7533636d993caec66b91
+SHA256sum: 536c9225e0f0bc52797f6d208f5d59d7aaca7eb3dd6aab3d0cf150ca7af99608
 Size: 574
-Filename: oe-alliance-skins_6.5-r10_all.ipk
+Filename: oe-alliance-skins_6.6-r10_all.ipk
 Source: oe-alliance-skins.bb
 Description: Manage skins for OE-Alliance feeds.
 OE: oe-alliance-skins
@@ -7977,14 +8043,14 @@ License: MIT
 Priority: optional
 
 Package: openresolv-dbg
-Version: 3.13.2+git403+867a4120+867a412d63-r0
+Version: 3.13.2+git404+dba13c30+dba13c3839-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 57f56cbb6173545cb6ba3f69eab081a3
-SHA256sum: 5956e32b7924bd365d0205790a34a2eb8f6fd38e98d818645421178e165a92c0
-Size: 614
-Filename: openresolv-dbg_3.13.2+git403+867a4120+867a412d63-r0_all.ipk
+MD5Sum: 4d42ecb1179cd04b9f6b6c135394b1bf
+SHA256sum: b8e52ee73c28b37c6ff8d3ae270cd446444f98ff85a7b823f00362b7a764f494
+Size: 616
+Filename: openresolv-dbg_3.13.2+git404+dba13c30+dba13c3839-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf - Debugging files
 OE: openresolv
@@ -7993,15 +8059,15 @@ License: BSD-2-Clause
 Priority: optional
 
 Package: openresolv-dev
-Version: 3.13.2+git403+867a4120+867a412d63-r0
-Recommends: openresolv (= 3.13.2+git403+867a4120+867a412d63-r0)
+Version: 3.13.2+git404+dba13c30+dba13c3839-r0
+Recommends: openresolv (= 3.13.2+git404+dba13c30+dba13c3839-r0)
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 45ebd82ffe9dff63776d782b00edfb0c
-SHA256sum: b91673ba13789da98c8c9a3f1c19a4cd23c4a80c0abf564b7fc4f87da174c5b7
+MD5Sum: a3610eac9a2d8e6f6b2939ed8a97dfee
+SHA256sum: f9017071bb5abec2bbf9db40040b62d5c16f8d51b2e8689d3b6d7093dc280314
 Size: 648
-Filename: openresolv-dev_3.13.2+git403+867a4120+867a412d63-r0_all.ipk
+Filename: openresolv-dev_3.13.2+git404+dba13c30+dba13c3839-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf - Development files
 OE: openresolv
@@ -8010,14 +8076,14 @@ License: BSD-2-Clause
 Priority: optional
 
 Package: openresolv-doc
-Version: 3.13.2+git403+867a4120+867a412d63-r0
+Version: 3.13.2+git404+dba13c30+dba13c3839-r0
 Section: doc
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 3b6169439fa13a7b699093c4102740e1
-SHA256sum: a5a263c7af15028030c8ab546c76ab5a05a38d58f8e23244fbf97f967760dc23
+MD5Sum: 229afb2c3a0ea54971731b9f5650064e
+SHA256sum: 9f98d89de0462fa555b8fa0476a8ad60a2efa4d5496022e345ac91659e74969a
 Size: 7716
-Filename: openresolv-doc_3.13.2+git403+867a4120+867a412d63-r0_all.ipk
+Filename: openresolv-doc_3.13.2+git404+dba13c30+dba13c3839-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf - Documentation files
 OE: openresolv
@@ -8026,16 +8092,16 @@ License: BSD-2-Clause
 Priority: optional
 
 Package: openresolv
-Version: 3.13.2+git403+867a4120+867a412d63-r0
+Version: 3.13.2+git404+dba13c30+dba13c3839-r0
 Provides: resolvconf
 Conflicts: resolvconf
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 711cbfde8a4f7bf2694febf408a920ed
-SHA256sum: d81def34c06f0dda0bfa618ca75a20c698843bdb054a829980ec70d4649a2e8d
-Size: 15418
-Filename: openresolv_3.13.2+git403+867a4120+867a412d63-r0_all.ipk
+MD5Sum: f3cb4eadb523600d4380b4257072dc3d
+SHA256sum: 3f169870a5a359981482df3758b11300e797dc7771f4341aa97b3f0941ef1f3e
+Size: 15420
+Filename: openresolv_3.13.2+git404+dba13c30+dba13c3839-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf
 OE: openresolv
@@ -8077,15 +8143,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: openvix-enigma2-dbg
-Version: 6.5-r30
-Recommends: bzip2-dbg, enigma-info-dbg, enigma2-skindefault-dbg, ffmpeg-dbg, libcrypto-compat-0.9.7-dbg, ofgwrite-dbg, procps-dbg, python3-compression-dbg, python3-process-dbg, zip-dbg
+Version: 6.6-r30
+Recommends: bzip2-dbg, enigma-info-dbg, enigma2-skindefault-dbg, ffmpeg-dbg, libcrypto-compat-0.9.7-dbg, mtd-utils-dbg, mtd-utils-ubifs-dbg, ofgwrite-dbg, procps-dbg, python3-compression-dbg, python3-process-dbg, vsftpd-dbg, zip-dbg
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 415c39a385cdb9aafc2baed48aa4985b
-SHA256sum: e280e1c86e729a5d563a7add8af462068cbcd9a1fb44f6a7a1c404345e57529a
-Size: 662
-Filename: openvix-enigma2-dbg_6.5-r30_all.ipk
+MD5Sum: 8865607aea3a17ad3fba9fb5ded892d1
+SHA256sum: 351d7a55dbd093c14c1e2769bf60a9230fd143b56239004e58f4805f3dbf1727
+Size: 680
+Filename: openvix-enigma2-dbg_6.6-r30_all.ipk
 Source: openvix-enigma2.bb
 Description: OpenViX Enigma2 - Debugging files
 OE: openvix-enigma2
@@ -8094,15 +8160,15 @@ License: MIT
 Priority: optional
 
 Package: openvix-enigma2-dev
-Version: 6.5-r30
-Recommends: bzip2-dev, enigma-info-dev, enigma2-skindefault-dev, ffmpeg-dev, libcrypto-compat-0.9.7-dev, ofgwrite-dev, openvix-enigma2 (= 6.5-r30), procps-dev, python3-compression-dev, python3-process-dev, zip-dev
+Version: 6.6-r30
+Recommends: bzip2-dev, enigma-info-dev, enigma2-skindefault-dev, ffmpeg-dev, libcrypto-compat-0.9.7-dev, mtd-utils-dev, mtd-utils-ubifs-dev, ofgwrite-dev, openvix-enigma2 (= 6.6-r30), procps-dev, python3-compression-dev, python3-process-dev, vsftpd-dev, zip-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 9285d82cca93eff358e7eca6908ad056
-SHA256sum: 74c0c38439b0dfe023c07b1ef12104b1768578c4301e3f21f6220834927c411d
-Size: 690
-Filename: openvix-enigma2-dev_6.5-r30_all.ipk
+MD5Sum: a3c55d03b2327fbd85b228db75355acb
+SHA256sum: 25fd0a004fdc307218233e983871fa3f7b1669cd2c21253716d6c8209ffa8972
+Size: 710
+Filename: openvix-enigma2-dev_6.6-r30_all.ipk
 Source: openvix-enigma2.bb
 Description: OpenViX Enigma2 - Development files
 OE: openvix-enigma2
@@ -8111,18 +8177,18 @@ License: MIT
 Priority: optional
 
 Package: openvix-enigma2
-Version: 6.5-r30
-Depends: bzip2, enigma-info, enigma2-skindefault, ffmpeg, libcrypto-compat-0.9.7, ofgwrite, procps, python3-compression, python3-process, zip
+Version: 6.6-r30
+Depends: bzip2, enigma-info, enigma2-skindefault, ffmpeg, libcrypto-compat-0.9.7, mtd-utils, mtd-utils-ubifs, ofgwrite, procps, python3-compression, python3-process, vsftpd, zip
 Replaces: enigma2-plugin-extensions-permanenttimeshift, enigma2-plugin-systemplugins-skinselector
 Conflicts: enigma2-plugin-extensions-permanenttimeshift, enigma2-plugin-systemplugins-skinselector
-Recommends: enigma2-plugin-extensions-autotimer, enigma2-plugin-extensions-epgimport, enigma2-plugin-extensions-epgsearch, enigma2-plugin-extensions-imdb, enigma2-plugin-extensions-openwebif-themes, enigma2-plugin-extensions-openwebif-vxg, enigma2-plugin-extensions-openwebif-webtv, enigma2-plugin-skins-openvix-magic-fhd, enigma2-plugin-skins-openvix-vix-day-hd, enigma2-plugin-skins-openvix-vix-night-hd, enigma2-plugin-skins-openvix-youvix-blue, enigma2-plugin-systemplugins-aboutboxbranding, enigma2-plugin-systemplugins-opentvzapper, enigma2-plugin-systemplugins-vix, enigma2-plugin-systemplugins-xmlupdate, openvix-picon-feed-opkg-conf
+Recommends: enigma2-plugin-extensions-autotimer, enigma2-plugin-extensions-cdinfo, enigma2-plugin-extensions-cutlisteditor, enigma2-plugin-extensions-dvdplayer, enigma2-plugin-extensions-e2iplayer, enigma2-plugin-extensions-e2iplayer-deps, enigma2-plugin-extensions-epgimport, enigma2-plugin-extensions-epgrefresh, enigma2-plugin-extensions-epgsearch, enigma2-plugin-extensions-imdb, enigma2-plugin-extensions-mediaplayer, enigma2-plugin-extensions-openwebif-themes, enigma2-plugin-extensions-openwebif-vxg, enigma2-plugin-extensions-openwebif-webtv, enigma2-plugin-extensions-socketmmi, enigma2-plugin-skins-e2-darkos, enigma2-plugin-skins-openvix-magic-fhd, enigma2-plugin-skins-openvix-simple-ten-eighty, enigma2-plugin-systemplugins-aboutboxbranding, enigma2-plugin-systemplugins-crossepg, enigma2-plugin-systemplugins-eitconfig, enigma2-plugin-systemplugins-hotplug, enigma2-plugin-systemplugins-opentvzapper, enigma2-plugin-systemplugins-satscanlcn, enigma2-plugin-systemplugins-serviceapp, enigma2-plugin-systemplugins-terrestrialscan, enigma2-plugin-systemplugins-vix, enigma2-plugin-systemplugins-xmlupdate, eplayer5, exteplayer3, openvix-picon-feed-opkg-conf, tzdata
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 3ed3880112d26825011edcebc8982cd1
-SHA256sum: 6fc79357063f3809ca0593d376f542fcc8ba50ad8c1a9b1646d4f18dafd9b6d5
-Size: 790
-Filename: openvix-enigma2_6.5-r30_all.ipk
+MD5Sum: 452afe37295995b1d878719e8fb44c2f
+SHA256sum: 467edd944d1e680cff02a015307a13dc9ff89e778ff3316cb2aaab656464c5f5
+Size: 928
+Filename: openvix-enigma2_6.6-r30_all.ipk
 Source: openvix-enigma2.bb
 Description: OpenViX Enigma2
 OE: openvix-enigma2
@@ -8131,14 +8197,14 @@ License: MIT
 Priority: optional
 
 Package: openvix-picon-feed-opkg-conf
-Version: 6.5-r0
+Version: 6.6-r0
 Section: base
 Architecture: all
 Maintainer: openvix team
-MD5Sum: 3f7386d9ba50b50c0da84ed57d222af0
-SHA256sum: b571d450fb19290862c39fad183856d43cb0e62669947ff9c74dc3b7d9f14048
+MD5Sum: c1135e8997aa94c9bf63083b95201b4f
+SHA256sum: 5d895ec887f2c44937df14c50c15a1575e27db275cd6119232c41cbad66b9acb
 Size: 682
-Filename: openvix-picon-feed-opkg-conf_6.5-r0_all.ipk
+Filename: openvix-picon-feed-opkg-conf_6.6-r0_all.ipk
 Source: openvix-picon-feed-opkg-conf.bb
 Description: OpenViX picon feed opkg conf
 OE: openvix-picon-feed-opkg-conf
@@ -8147,14 +8213,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: openvix-spinner-dbg
-Version: 6.5-r0
+Version: 6.6-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: a16519781e7d2d38b1fccd3f640dfe41
-SHA256sum: 16994fd15affe010772f3659b062efc01ecd752820a21134c6be7041b77822c6
+MD5Sum: faeec814728619434d0f28721e25adde
+SHA256sum: 4c8f356017900f0ce6a795a1a726ee7fb1c00165e90321e56b1f50b1b3926a59
 Size: 572
-Filename: openvix-spinner-dbg_6.5-r0_all.ipk
+Filename: openvix-spinner-dbg_6.6-r0_all.ipk
 Source: openvix-spinner.bb
 Description: OpenViX Spinner - Debugging files
 OE: openvix-spinner
@@ -8163,15 +8229,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: openvix-spinner-dev
-Version: 6.5-r0
-Recommends: openvix-spinner (= 6.5-r0)
+Version: 6.6-r0
+Recommends: openvix-spinner (= 6.6-r0)
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 4106b27750e2fc4a359a034504175d2e
-SHA256sum: 9d07d5e86201a05126f4649ad4717d0c7a675818b8df6d4a6e17ae3ba4eb3feb
+MD5Sum: 1cd0818647e25e7a43ee99aaa93396ea
+SHA256sum: 8bdf5a22a682b659f3a5aa6e07244f3ead7a298ba096e95c1beed8c151bb76a1
 Size: 610
-Filename: openvix-spinner-dev_6.5-r0_all.ipk
+Filename: openvix-spinner-dev_6.6-r0_all.ipk
 Source: openvix-spinner.bb
 Description: OpenViX Spinner - Development files
 OE: openvix-spinner
@@ -8180,16 +8246,16 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: openvix-spinner
-Version: 6.5-r0
+Version: 6.6-r0
 Replaces: enigma2-spinner
 Conflicts: enigma2-spinner
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 78a54b50afa5b48f05e7e20314ab17ac
-SHA256sum: f0b00dcc6b15525e99284d03fc945dc0d187a44b892f8bea1e65db7a1eab8837
+MD5Sum: cb03adf37e9300a1dd9a4bbded06813b
+SHA256sum: aca064c59856b17a61bd75326a508e9f85add99cedf5c331b4df00285b488438
 Size: 69628
-Filename: openvix-spinner_6.5-r0_all.ipk
+Filename: openvix-spinner_6.6-r0_all.ipk
 Source: openvix-spinner.bb
 Description: OpenViX Spinner
 OE: openvix-spinner
@@ -8313,13 +8379,13 @@ Priority: optional
 
 Package: run-postinsts-dev
 Version: 1.0-r0
-Recommends: initscripts-dev, run-postinsts (= 1.0-r0), update-rc.d-dev
+Recommends: initscripts-dev, run-postinsts (= 1.0-r0), update-rc.d-dev, util-linux-fcntl-lock-dev
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: dc5c213c06e6447511be2f422b7cce3d
-SHA256sum: 475ad5c804ef320f27fd48bfc6860e8046fd05dbb32a983df9a793358b8fd090
-Size: 652
+MD5Sum: de9051009d47df4f05672ce885d095cb
+SHA256sum: e9d7dac1c6c96b1e841671292f71986d581aa12202a45e14a6023edaa262bd40
+Size: 668
 Filename: run-postinsts-dev_1.0-r0_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Development files
@@ -8330,13 +8396,14 @@ Priority: optional
 
 Package: run-postinsts
 Version: 1.0-r0
+Depends: util-linux-fcntl-lock
 Recommends: update-rc.d
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 914cec01b06fbb5e921292271f442f01
-SHA256sum: f5fa413f88c200af20a70d960bbe8d94761f85a74f222003b2cd7cd99198f4c5
-Size: 1816
+MD5Sum: a4ccacdd3831441244a09661eaf55ed1
+SHA256sum: 3fe128cb479c5c4a830fe0a8fac6e250666f7cfd415bd212ec0c891ff2540a78
+Size: 1918
 Filename: run-postinsts_1.0-r0_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device
@@ -8350,8 +8417,8 @@ Version: 1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 6573ec32de9b955fcce7c5477e351a25
-SHA256sum: fb01ce8dcfcf1cb43651560fd085c0aa5e218b711874ef8b1c4a015c00e7831c
+MD5Sum: 887a4a4ebad1cc0cc4c246fced262ff3
+SHA256sum: f40186302aa2bcc04d585f3914843f60ed1c70eeabd1618277796fcc029945f7
 Size: 608
 Filename: streamlinksrv-dbg_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
@@ -8367,8 +8434,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.2+git25+c7ae8
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 01f520e71b36aeaf87293dd6229a8d41
-SHA256sum: d3ba67927b91ad222a5965a301382d76aca745ab069b23befc2cb2291ebcfbc2
+MD5Sum: 579c21c01d3d996db2fcdb684a030fc7
+SHA256sum: 6c54b1f52dd09ac8a4e9d1e4c7b3faf23e29578f0c028339570797d5c9b29db4
 Size: 658
 Filename: streamlinksrv-dev_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
@@ -8384,9 +8451,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: a4e1e9595444adc15263510a49daf1db
-SHA256sum: 854b6e4809eff8a66f9eb713c7a1b4dfd1d871cba9b45a5f3994625088fe201e
-Size: 85902
+MD5Sum: d37af9bc2957c748afd30d098222922b
+SHA256sum: a36c03ada828eaaaf234d9f134b144df49f0652212f057860d7f8be585341e73
+Size: 85900
 Filename: streamlinksrv_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.2+git-r0
@@ -8396,14 +8463,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 1.0+git900+2605af80+2605af8a71-r0
+Version: 1.0+git913+432029e0+432029e4b2-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 1ed291b1dfca0e3570177ee385bc3657
-SHA256sum: deebde4bc9de7d1c24b50d1ba5b60bc12e10ab8ad4f3f1138bbab25a9082c691
+MD5Sum: eb0013aadff1161460350b448557ab4f
+SHA256sum: 1560800271e2b61c7da87ec3c05a1c047c2dc9b9f18fc2aa642c2a9adcaa5089
 Size: 600
-Filename: tuxbox-common-dbg_1.0+git900+2605af80+2605af8a71-r0_all.ipk
+Filename: tuxbox-common-dbg_1.0+git913+432029e0+432029e4b2-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Debugging files
 OE: tuxbox-common
@@ -8412,15 +8479,15 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 1.0+git900+2605af80+2605af8a71-r0
-Recommends: tuxbox-common (= 1.0+git900+2605af80+2605af8a71-r0)
+Version: 1.0+git913+432029e0+432029e4b2-r0
+Recommends: tuxbox-common (= 1.0+git913+432029e0+432029e4b2-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: c75336b1ee4fc5eb8017bc383bcb8b33
-SHA256sum: eb68e411e5bf908ca9cd5df0eda708fa6f5a06a30c565c2d074cbf556ecf97ce
-Size: 632
-Filename: tuxbox-common-dev_1.0+git900+2605af80+2605af8a71-r0_all.ipk
+MD5Sum: 6e180a30e7413aad20e08e8d452487a7
+SHA256sum: 7037408a110c6275bb425448e1fa37e8b711fb5975e08f805a2d4373bd8d68f7
+Size: 634
+Filename: tuxbox-common-dev_1.0+git913+432029e0+432029e4b2-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Development files
 OE: tuxbox-common
@@ -8429,14 +8496,14 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common
-Version: 1.0+git900+2605af80+2605af8a71-r0
+Version: 1.0+git913+432029e0+432029e4b2-r0
 Section: base
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 068bf3cd9c4dad4a259aedb24848435e
-SHA256sum: eda5ac4fe026ad8a7086b8676b5b34e0c2b0457794d14e4faedba176704cdaee
-Size: 80014
-Filename: tuxbox-common_1.0+git900+2605af80+2605af8a71-r0_all.ipk
+MD5Sum: a6df6fab17fc16018cf5ccb7075eee1f
+SHA256sum: 832a34ba44a82fe67f179e16bb191b2aaaef14a4c9ceb21d7b5c31a7ff903110
+Size: 79772
+Filename: tuxbox-common_1.0+git913+432029e0+432029e4b2-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files
 OE: tuxbox-common
@@ -8670,14 +8737,14 @@ License: PD & BSD-3-Clause
 Priority: optional
 
 Package: update-rc.d-dbg
-Version: 0.8-r0
+Version: 0.8+git0+b8f9501050-r0
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 08ef1b2413ac1e4ee4f25aa5c3d686b0
-SHA256sum: 76b5fca2a2fbc4f664eab29cbe2607a6a76553f5b4ae0151ce1ebc1276a0616e
-Size: 642
-Filename: update-rc.d-dbg_0.8-r0_all.ipk
+MD5Sum: d897df7c9059308c168e9abff1678845
+SHA256sum: 44d1d5656c7cfa360a49de281c781d796e25b6292f0c2899235d84e20e671a70
+Size: 654
+Filename: update-rc.d-dbg_0.8+git0+b8f9501050-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d - Debugging files
 OE: update-rc.d
@@ -8686,15 +8753,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: update-rc.d-dev
-Version: 0.8-r0
-Recommends: update-rc.d (= 0.8-r0)
+Version: 0.8+git0+b8f9501050-r0
+Recommends: update-rc.d (= 0.8+git0+b8f9501050-r0)
 Section: devel
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 5b8c68c5cc2e1d6bdd93d82938ee1d85
-SHA256sum: e1c360afd778f8adbdbb06e6d9a7a8044c3503384847b1d38183a05459899558
-Size: 674
-Filename: update-rc.d-dev_0.8-r0_all.ipk
+MD5Sum: 8cda5af3d6af71bdd59243bb9f30388c
+SHA256sum: d4670d18a5b34c28987bb780767600992a319bbc145374455803db4893c78cea
+Size: 686
+Filename: update-rc.d-dev_0.8+git0+b8f9501050-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d - Development files
 OE: update-rc.d
@@ -8703,14 +8770,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: update-rc.d
-Version: 0.8-r0
+Version: 0.8+git0+b8f9501050-r0
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 5d9bf5fed6f81f98fb5e4a06032aaef4
-SHA256sum: 9108fcc0d28eb16944db1eacee1c685e61ad58008b37126005255fdc557b9755
-Size: 3132
-Filename: update-rc.d_0.8-r0_all.ipk
+MD5Sum: 0964cdc7c5442594bc7d61f3b5369c80
+SHA256sum: 113bedee0936898e492b242dbf6788d14256bd034c0e905fa7b8e3e5a58dd376
+Size: 3144
+Filename: update-rc.d_0.8+git0+b8f9501050-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d
 OE: update-rc.d

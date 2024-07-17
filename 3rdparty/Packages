@@ -10,19 +10,6 @@ Filename: enigma2-plugin-extensions-ipchecker_004_all.ipk
 Description: plugin to check your boxes external IP adress
 Priority: optional
 
-Package: enigma2-plugin-extensions-missingpicons
-Version: 2022_09_18
-Architecture: all
-Maintainer: Huevos and Abu Baniaz
-MD5Sum: 10d3b12ef70d2298ca60694f1a3e234c
-SHA256sum: 673a08528297e34c6027effd9f3581bc18092e05ebbcb038ad92ec064f328a21
-Size: 4234
-Filename: enigma2-plugin-extensions-missingpicons_2022_09_18_all.ipk
-Description: Lists missing picons
-OE: N/A
-HomePage: http://www.world-of-satellite.com
-Priority: optional
-
 Package: enigma2-plugin-extensions-netspeedtest
 Version: 2.1.5
 Section: extra
