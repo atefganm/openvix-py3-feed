@@ -3261,13 +3261,13 @@ Priority: optional
 
 Package: enigma2-plugin-drivers-dvb-usb-dvbsky-classic
 Version: 2.0-r2
-Recommends: dvb-sky-module-dvb-usb-dvbsky, dvb-sky-module-dvb-usb-v2, dvb-sky-module-dvbsky-m88ds3103, dvb-sky-module-dvbsky-m88rs6000, dvb-sky-module-m88ds3103, dvb-sky-module-si2157, dvb-sky-module-si2168, dvb-sky-module-sit2fe, dvb-sky-module-ts2020, firmware-dvb-fe-ds3000, firmware-dvb-fe-ds3xxx, firmware-dvb-fe-si2168, firmware-dvb-usb-s660
+Recommends: firmware-dvb-fe-ds3000, firmware-dvb-fe-ds3xxx, firmware-dvb-fe-si2168, firmware-dvb-usb-s660, kernel-module-dvb-usb-dvbsky, kernel-module-dvb-usb-v2, kernel-module-dvbsky-m88ds3103, kernel-module-dvbsky-m88rs6000, kernel-module-m88ds3103, kernel-module-si2157, kernel-module-si2168, kernel-module-sit2fe, kernel-module-ts2020
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: 5e36fe83693554e740bd430a944643d1
-SHA256sum: 42d5ab88d9670f3f21c18e896cd9675bc579b19ac51410f081c5ebc9bebcfe32
-Size: 648
+MD5Sum: e4cb0558e16a814aa0190e9d76547621
+SHA256sum: bd824040ebf679fd0df9e54d011c31d59d95bbbb7ee7a648545409c0abefc3fa
+Size: 650
 Filename: enigma2-plugin-drivers-dvb-usb-dvbsky-classic_2.0-r2_all.ipk
 Source: enigma2-plugin-drivers-dvb-usb-dvbsky-classic.bb
 Description: USB DVB driver for DVB-SKY Family
@@ -3761,13 +3761,13 @@ Priority: optional
 
 Package: enigma2-plugin-drivers-dvb-usb-tbs
 Version: 1.1-r0
-Recommends: firmware-dvb-usb-tbs5925, firmware-dvb-usb-tbs5980, kernel-module-cx24116, kernel-module-dvb-usb-tbsusb, kernel-module-stb6000, kernel-module-stb6100, kernel-module-stv0288, kernel-module-stv0299, kernel-module-stv090x, kernel-module-tda10071
+Recommends: astra-sm, blindscan-s2, enigma2-plugin-systemplugins-blindscan, firmware-dvb-usb-tbs5925, firmware-dvb-usb-tbs5980, kernel-module-cx24116, kernel-module-dvb-usb-tbsusb, kernel-module-stb6000, kernel-module-stb6100, kernel-module-stv0288, kernel-module-stv0299, kernel-module-stv090x, kernel-module-tda10071
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: b6c670abe406e0e28743e4cac52e74dd
-SHA256sum: 55085c567bf57a129ec1576301c5b5bce06a484735766ea7123b4a0d58a82657
-Size: 626
+MD5Sum: 28c1d6d5e6775b659d92afa858ed0296
+SHA256sum: 7bf57225e94f83503005aeba056c7bb77933b734d94ef1b65f293ea375f0af78
+Size: 654
 Filename: enigma2-plugin-drivers-dvb-usb-tbs_1.1-r0_all.ipk
 Source: enigma2-plugin-drivers-dvb-usb-tbs.bb
 Description: enigma2-plugin-drivers-dvb-usb-tbs version 1.1-r0
@@ -5376,6 +5376,56 @@ HomePage: https://www.world-of-satellite.com
 License: GPL-2.0-or-later
 Priority: optional
 
+Package: enigma2-plugin-drivers-network-usb-rtl8852cu-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: all
+Maintainer: OpenViX
+MD5Sum: 9861fb5be972d04721419ace6275a34e
+SHA256sum: 8d0cc36cc23f778348e41aabdb61b8585922cc8443fd518b2be19585e8cdc76f
+Size: 618
+Filename: enigma2-plugin-drivers-network-usb-rtl8852cu-dbg_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
+Description: WiFi devices for Realtek 8852CU chipsets. - Debugging files
+OE: enigma2-plugin-drivers-network-usb-rtl8852cu
+HomePage: https://www.world-of-satellite.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-drivers-network-usb-rtl8852cu-dev
+Version: 1.0-r0
+Recommends: enigma2-plugin-drivers-network-usb-rtl8852cu (= 1.0-r0)
+Section: devel
+Architecture: all
+Maintainer: OpenViX
+MD5Sum: 6b21e9b2d9638686c628a829dc98062b
+SHA256sum: e7081386e289106f7b939e29dc4ed7fee685a6af36d1b2555cb450e0c88fdadb
+Size: 654
+Filename: enigma2-plugin-drivers-network-usb-rtl8852cu-dev_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
+Description: WiFi devices for Realtek 8852CU chipsets. - Development files
+OE: enigma2-plugin-drivers-network-usb-rtl8852cu
+HomePage: https://www.world-of-satellite.com
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-drivers-network-usb-rtl8852cu
+Version: 1.0-r0
+Recommends: rtl8852cu
+Section: base
+Architecture: all
+Maintainer: OpenViX
+MD5Sum: 3c2514e2a2fa9aff7b36b08b4f46f1a8
+SHA256sum: dbdbabceb4bd8fc8a5275dc53e1ee2840e1ceb62af0ba13b04cd37fbcdb3e71c
+Size: 562
+Filename: enigma2-plugin-drivers-network-usb-rtl8852cu_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
+Description: WiFi devices for Realtek 8852CU chipsets.
+OE: enigma2-plugin-drivers-network-usb-rtl8852cu
+HomePage: https://www.world-of-satellite.com
+License: GPL-2.0-or-later
+Priority: optional
+
 Package: enigma2-plugin-drivers-network-usb-smsc75xx-dbg
 Version: 1.0-r0
 Section: devel
@@ -5791,8 +5841,8 @@ Version: 1.0+git10+4d0456a0+4d0456a218-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 4f2ef125c45788a4b22020d5bc952179
-SHA256sum: d53a0843c4cc479991faa50ae476a5ae7212f63b900f94437d640301ebd46c26
+MD5Sum: b8f7936291e696e98956f393daa474df
+SHA256sum: 6f7987f996f8b3456666b1ab8edaf2788be93d13285a7fe670ca5f28b84b6997
 Size: 646
 Filename: enigma2-plugin-extensions-iptv-org-playlists-dbg_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
@@ -5808,8 +5858,8 @@ Recommends: enigma2-plugin-extensions-iptv-org-playlists (= 1.0+git10+4d0456a0+4
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 7d3c48f63734a7750e192092acbcd624
-SHA256sum: 08046216bc33e6c267075e6999ed69a4d34836f79bfb9aa4b6730b386b2a781a
+MD5Sum: 467d643fcf7748517aa3c2998e21c98b
+SHA256sum: 563b9ad6aa6597dfaa882e34eec6fe0b2ba8f38b988997b949f79fa3500433a4
 Size: 696
 Filename: enigma2-plugin-extensions-iptv-org-playlists-dev_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
@@ -5824,8 +5874,8 @@ Version: 1.0+git10+4d0456a0+4d0456a218-r0
 Section: devel
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 9990c3af4677d5edd3ca26bf031eb464
-SHA256sum: 67905dd516e486a7d646150e9aa4ba7dc157c6cab44cf3997f73441446157de2
+MD5Sum: 11f5d00a13f4f6fcaaefbd30992ea57e
+SHA256sum: c65c9a18dc33230bd35226607e372254b4ef3e88b5a83697de4316717a399456
 Size: 7210
 Filename: enigma2-plugin-extensions-iptv-org-playlists-src_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
@@ -5841,8 +5891,8 @@ Depends: python3-requests
 Section: base
 Architecture: all
 Maintainer: Huevos
-MD5Sum: 6c4b55fe71229ec88bf292259db6d1cc
-SHA256sum: 1f8fe9ea1a4e82bf62ccab05819d10f46e4b2d58f1b97e1e5091798dad41ba1d
+MD5Sum: ee88c449c3ddd7b236f62c9216fd1c7d
+SHA256sum: c26e5589056cbcf3fa450fb770470d1691d9cbee618c729fda8981de6d5a2b40
 Size: 23970
 Filename: enigma2-plugin-extensions-iptv-org-playlists_1.0+git10+4d0456a0+4d0456a218-r0_all.ipk
 Source: enigma2-plugin-extensions-iptv-org-playlists.bb
@@ -5906,8 +5956,8 @@ Version: 2.11-20240919-git18+a2e1bca0+a2e1bca36d-r3
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 643414c9de98f800730f1ac303c4667e
-SHA256sum: 226b815c0ebb82c0502bdfc5d6dcc118dfb00fc56b4bd6537c1e1271d346b5ad
+MD5Sum: 509301f4a517b777ac85e726c4abc680
+SHA256sum: 018187aa53bc7e13451581114008145a9e4232ab1010c2f0f162974ff723780b
 Size: 298632
 Filename: enigma2-plugin-extensions-jediepgxtream_2.11-20240919-git18+a2e1bca0+a2e1bca36d-r3_all.ipk
 Source: enigma2-plugin-extensions-jediepgxtream.bb
@@ -6032,14 +6082,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-dbg
-Version: 4.7.1-git594+18a48d40+18a48d413b-r0
+Version: 4.7.1-git596+ff7f7a80+ff7f7a8e73-r0
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 18eca5d18b5bed00274192096f39b451
-SHA256sum: ede776b31d04b635b847dbe64631097be022c895d7290382558bc98a445f8233
+MD5Sum: 15f0170819295eb99b8c0d7f4ae6d0c1
+SHA256sum: f411ee9f4cfbe7e067af52adef1d3e2135e86988473b4e888bea2488933a812a
 Size: 674
-Filename: enigma2-plugin-extensions-serienrecorder-dbg_4.7.1-git594+18a48d40+18a48d413b-r0_all.ipk
+Filename: enigma2-plugin-extensions-serienrecorder-dbg_4.7.1-git596+ff7f7a80+ff7f7a8e73-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Debugging files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -6048,15 +6098,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-dev
-Version: 4.7.1-git594+18a48d40+18a48d413b-r0
-Recommends: enigma2-plugin-extensions-serienrecorder (= 4.7.1-git594+18a48d40+18a48d413b-r0), python3-email-dev, python3-json-dev, python3-sqlite3-dev, python3-xmlrpc-dev
+Version: 4.7.1-git596+ff7f7a80+ff7f7a8e73-r0
+Recommends: enigma2-plugin-extensions-serienrecorder (= 4.7.1-git596+ff7f7a80+ff7f7a8e73-r0), python3-email-dev, python3-json-dev, python3-sqlite3-dev, python3-xmlrpc-dev
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 0f710c7815c492fad96eae63eb18d6af
-SHA256sum: cfbcfb93e4b544d48525aa48d3be3518c022fe155f98776998755ae21498744e
+MD5Sum: b764369d01d25256e285d961b4c1b465
+SHA256sum: c44c1f5b35c3115bc0376b3638a3290275172aa4b28d75da82a7b1254e52acf4
 Size: 746
-Filename: enigma2-plugin-extensions-serienrecorder-dev_4.7.1-git594+18a48d40+18a48d413b-r0_all.ipk
+Filename: enigma2-plugin-extensions-serienrecorder-dev_4.7.1-git596+ff7f7a80+ff7f7a8e73-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Development files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -6065,14 +6115,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder-src
-Version: 4.7.1-git594+18a48d40+18a48d413b-r0
+Version: 4.7.1-git596+ff7f7a80+ff7f7a8e73-r0
 Section: devel
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: e018b7f5707cdf2356ef065f89063664
-SHA256sum: d660f559e2f0081e026d424cf17c29f4b6a5f71247c669cf84254cae2af9a6fb
-Size: 231180
-Filename: enigma2-plugin-extensions-serienrecorder-src_4.7.1-git594+18a48d40+18a48d413b-r0_all.ipk
+MD5Sum: e46318084d974dfeba54f60ecf53d9fe
+SHA256sum: 99cf09f7f4fb9d0b6cd7281f38a5d20d9733267bded727a1af4833151669df1d
+Size: 231220
+Filename: enigma2-plugin-extensions-serienrecorder-src_4.7.1-git596+ff7f7a80+ff7f7a8e73-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen! - Source files
 OE: enigma2-plugin-extensions-serienrecorder
@@ -6081,15 +6131,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder
-Version: 4.7.1-git594+18a48d40+18a48d413b-r0
+Version: 4.7.1-git596+ff7f7a80+ff7f7a8e73-r0
 Depends: python3-email, python3-json, python3-sqlite3, python3-xmlrpc
 Section: extra
 Architecture: all
 Maintainer: einfall & w22754 & egn & MacDisein
-MD5Sum: 35bd2f64c60cbc227d3246b62925444f
-SHA256sum: cdd777aba46ebed2924ff00d59394ad8afa9186b188c1d44ef316c6098566c2c
-Size: 834346
-Filename: enigma2-plugin-extensions-serienrecorder_4.7.1-git594+18a48d40+18a48d413b-r0_all.ipk
+MD5Sum: f891814e269304620f6fc55928d8c9d7
+SHA256sum: b1d7fa9be6bdb70c38ed3e81160c53f1e7ee3f655f8c8502ee93e4001503937a
+Size: 834352
+Filename: enigma2-plugin-extensions-serienrecorder_4.7.1-git596+ff7f7a80+ff7f7a8e73-r0_all.ipk
 Source: enigma2-plugin-extensions-serienrecorder.bb
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen!
 OE: enigma2-plugin-extensions-serienrecorder
@@ -6264,8 +6314,8 @@ Version: 1.0+git245+f4b1c6d0+f4b1c6d79f-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: bad5cd1b0d375c94724a64a73c60e1ec
-SHA256sum: df1c4f1949d2dfec3947455403628490acb18795aca7d77b6dbeef701e86bb0a
+MD5Sum: 6659ad9a9bef1c4160220c596458cf13
+SHA256sum: 6f363a6bd3608ec06f165e4c759d920cf2e08c72b410530058da8f88f30f09f8
 Size: 632
 Filename: enigma2-plugin-skins-e2-darkos-dbg_1.0+git245+f4b1c6d0+f4b1c6d79f-r0_all.ipk
 Source: enigma2-plugin-skins-e2-darkos.bb
@@ -6281,9 +6331,9 @@ Recommends: enigma2-plugin-skins-e2-darkos (= 1.0+git245+f4b1c6d0+f4b1c6d79f-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 4540cf236779556cdc85d21a62fc3c4d
-SHA256sum: da4cbbe422c565173ecb1d62314f926ae77e1c5d08fbc133827598cab34b8d4b
-Size: 666
+MD5Sum: 9ab165ae30938bc442b23f519960f1e3
+SHA256sum: 3eda43d23418c355f6100d563c837ea714e5edb9c55793317c45a94f03084eaf
+Size: 668
 Filename: enigma2-plugin-skins-e2-darkos-dev_1.0+git245+f4b1c6d0+f4b1c6d79f-r0_all.ipk
 Source: enigma2-plugin-skins-e2-darkos.bb
 Description: enigma2-plugin-skins-e2-darkos version 1.0+git-r0 - Development files
@@ -6298,9 +6348,9 @@ Recommends: enigma2-boxlogos
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 0ec82f39da349e4c9fdd73f6313b33bf
-SHA256sum: cc74595f6914b6cce9f3d1da75885901c6cb5c5f7190b385c31e00951a02b551
-Size: 3119460
+MD5Sum: c9c64879954d987c8c076e3bc52cc530
+SHA256sum: abdb4f7831449df1968ea8d1909d2dcf067b48ff8045d867fcaf4f03762ef3bb
+Size: 3119570
 Filename: enigma2-plugin-skins-e2-darkos_1.0+git245+f4b1c6d0+f4b1c6d79f-r0_all.ipk
 Source: enigma2-plugin-skins-e2-darkos.bb
 Description: enigma2-plugin-skins-e2-darkos version 1.0+git-r0
@@ -6473,14 +6523,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dbg
-Version: 1.0+git154+dd3f9540+dd3f9547a6-r0
+Version: 1.0+git156+19d79bb0+19d79bbdbe-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 1f382d7ea36651a9f90c731204a985de
-SHA256sum: dec9cd2e39070b67d72e37bf18cb22869c79d796ea82f67ac92b198664fa1f56
-Size: 622
-Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git154+dd3f9540+dd3f9547a6-r0_all.ipk
+MD5Sum: a77351a3761a63c151663a1b8a55b132
+SHA256sum: 6694f4481a63a777da0d1ab3854a3df774114f8a57ea5ecc9fb021b9a2dc08d4
+Size: 624
+Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git156+19d79bb0+19d79bbdbe-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -6489,15 +6539,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dev
-Version: 1.0+git154+dd3f9540+dd3f9547a6-r0
-Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git154+dd3f9540+dd3f9547a6-r0)
+Version: 1.0+git156+19d79bb0+19d79bbdbe-r0
+Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git156+19d79bb0+19d79bbdbe-r0)
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 06cc08f17815d78f614cf183aeb4992e
-SHA256sum: f3f90217256243d932e17df1b13204a8a8d25e403604ee33daae39bf38115f2d
-Size: 656
-Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git154+dd3f9540+dd3f9547a6-r0_all.ipk
+MD5Sum: 7d13904cd7b72c951ac832c061648ee1
+SHA256sum: 4743ddd2222daaeaee30d03de4c00959b8e07581feabc4c198bfe791d04162eb
+Size: 658
+Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git156+19d79bb0+19d79bbdbe-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Development files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -6506,14 +6556,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-src
-Version: 1.0+git154+dd3f9540+dd3f9547a6-r0
+Version: 1.0+git156+19d79bb0+19d79bbdbe-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 65ab3dcb9052705c3e2e8b501069388e
-SHA256sum: edbb6904c9b538d01f36bd36b0780adc43d4b069aaadd4643e27b8636b959c17
-Size: 28738
-Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git154+dd3f9540+dd3f9547a6-r0_all.ipk
+MD5Sum: 5e59ad6b7646c9ea802a68cb4675d728
+SHA256sum: 007bb280a9a3c4281b7124962b97f43b28e89917dde71acfa83bfc7f6f6bbcdd
+Size: 29452
+Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git156+19d79bb0+19d79bbdbe-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Source files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -6522,14 +6572,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv
-Version: 1.0+git154+dd3f9540+dd3f9547a6-r0
+Version: 1.0+git156+19d79bb0+19d79bbdbe-r0
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: dd2db77be7f7a92e910d7c204d7602b4
-SHA256sum: 5ef3d0c1b9438a8cfc5efcb4dba31c88c3e1fcc9c673b265382fe1289379f1b5
-Size: 76518
-Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git154+dd3f9540+dd3f9547a6-r0_all.ipk
+MD5Sum: 4ab2dfdbfa0de6a52db4592b29480e53
+SHA256sum: cdd90e60631ac45adaff1398d16ee20723577e500aaf09bff9753cecaf5dd0e7
+Size: 78198
+Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git156+19d79bb0+19d79bbdbe-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -8181,13 +8231,13 @@ Version: 6.6-r30
 Depends: bzip2, enigma-info, enigma2-skindefault, ffmpeg, libcrypto-compat-0.9.7, mtd-utils, mtd-utils-ubifs, ofgwrite, procps, python3-compression, python3-process, vsftpd, zip
 Replaces: enigma2-plugin-extensions-permanenttimeshift, enigma2-plugin-systemplugins-skinselector
 Conflicts: enigma2-plugin-extensions-permanenttimeshift, enigma2-plugin-systemplugins-skinselector
-Recommends: enigma2-plugin-extensions-autotimer, enigma2-plugin-extensions-epgimport, enigma2-plugin-extensions-epgsearch, enigma2-plugin-extensions-imdb, enigma2-plugin-extensions-openwebif-themes, enigma2-plugin-extensions-openwebif-vxg, enigma2-plugin-extensions-openwebif-webtv, enigma2-plugin-skins-openvix-simple-ten-eighty, enigma2-plugin-systemplugins-aboutboxbranding, enigma2-plugin-systemplugins-opentvzapper, enigma2-plugin-systemplugins-vix, enigma2-plugin-systemplugins-xmlupdate, openvix-picon-feed-opkg-conf, tzdata
+Recommends: enigma2-plugin-extensions-autotimer, enigma2-plugin-extensions-e2iplayer, enigma2-plugin-extensions-e2iplayer-deps, enigma2-plugin-extensions-epgimport, enigma2-plugin-extensions-epgsearch, enigma2-plugin-extensions-imdb, enigma2-plugin-extensions-openwebif-themes, enigma2-plugin-extensions-openwebif-vxg, enigma2-plugin-extensions-openwebif-webtv, enigma2-plugin-skins-openvix-simple-ten-eighty, enigma2-plugin-systemplugins-aboutboxbranding, enigma2-plugin-systemplugins-opentvzapper, enigma2-plugin-systemplugins-serviceapp, enigma2-plugin-systemplugins-softwaremanager, enigma2-plugin-systemplugins-vix, enigma2-plugin-systemplugins-xmlupdate, eplayer5, exteplayer3, openvix-picon-feed-opkg-conf, tzdata
 Section: base
 Architecture: all
 Maintainer: OpenViX
-MD5Sum: bf3193a1946cd6e035d9a868bdd25ced
-SHA256sum: ff8dbc27cc8d733191e24a7368fc4373f236a96c2e8fac910f9e5304cf07b6e5
-Size: 800
+MD5Sum: 5cd4f8e5b9be1df2e9fb1c6e786735fc
+SHA256sum: 7b5cebbef775165d8f4448411edae80f67972ab0c10365f8166b8c40d831ee53
+Size: 844
 Filename: openvix-enigma2_6.6-r30_all.ipk
 Source: openvix-enigma2.bb
 Description: OpenViX Enigma2
